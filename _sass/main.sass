@@ -1,0 +1,81 @@
+@import "navbar"
+@import "fonts"
+
+$media-limit: 1000px
+
+html
+  color-scheme: dark light
+
+body
+  font-family: 'Nunito', sans-serif
+  font-weight: 200
+  font-size: 1.2rem
+  line-height: 1.5em
+  display: grid
+  grid-template-columns: 1fr
+  grid-template-rows: 10vh 80vh 10vh
+  grid-template-areas: "header" "main" "footer"
+  @media only screen and (min-width: $media-limit) 
+    grid-template-columns: 1fr 3fr 1fr
+    grid-template-areas: ". header ." ". main ." ". footer ."
+
+header
+  grid-area: header
+
+nav
+  font-family: "JetBrains", monospace
+  font-weight: 200
+  font-size: 1.1rem
+
+main
+  grid-area: main
+
+main ul
+  list-style: none
+  padding-left: 0
+
+main a
+  text-decoration: none
+  color: white
+  opacity: 0.6
+  transition: opacity 150ms ease-in-out
+
+main a:hover
+  opacity: 1
+
+h1, h2, h3, h4
+  font-family: 'JetBrains', monospace
+  font-weight: 500
+
+footer
+  grid-area: footer
+
+.post-title
+  margin-bottom: 0.4em
+
+.post-date
+  font-family: 'JetBrains', monospace
+  font-weight: 200
+  font-size: 1rem
+  word-spacing: -0.3rem
+  font-feature-settings: "zero"
+  margin-top: 0.6em
+
+.list
+  font-family: "JetBrains", monospace
+  font-weight: 200
+  word-spacing: -0.3rem
+  font-feature-settings: "zero"
+  padding-bottom: 0.3em
+
+.list a
+  text-decoration: none
+  opacity: 0.6
+  transition: opacity 150ms ease-in-out
+
+.list a:visited
+  color: white
+  
+.list a:hover
+  opacity: 1
+

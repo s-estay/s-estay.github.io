@@ -1,0 +1,21 @@
+nav 
+  height: 100%
+  display: flex
+  flex-direction: row
+  align-items: center
+  column-gap: 0.5em
+
+nav a
+  text-decoration: none
+  color: white
+  opacity: 0.6
+  transition: opacity 150ms ease-in-out
+
+nav a:active
+  opacity: 1
+
+nav a:hover:not(.active)
+  opacity: 1
+
+.current
+  opacity: 1
