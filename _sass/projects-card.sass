@@ -1,0 +1,34 @@
+
+$light-grey: #b3b0b0
+$dark-grey: #3b3b3b
+$media-limit: 1000px
+
+.cards
+  display: grid
+  column-gap: 1em
+  row-gap: 1em
+  margin-top: 1.5em
+  grid-template-columns: 1fr
+  @media only screen and (min-width: $media-limit)
+    grid-template-columns: 1fr 1fr
+
+.project
+  display: flex
+  height: 100%
+  width: 100%
+  border-radius: 1em
+  background-color: $dark-grey
+  box-shadow: 0 0 1.5em rgba(0, 0, 0, 0.5)
+
+.project p
+  word-spacing: initial
+
+.project-name
+  text-align: center
+  word-spacing: -0.5ch
+  padding-left: 1em
+  padding-right: 1em
+  padding-top: 0.5em
+  padding-bottom: 0
+  @media only screen and (min-width: $media-limit)
+    padding: 1em
