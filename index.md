@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "page title"
+layout: blog
+title: "blog"
 ---
 
 # Title H1

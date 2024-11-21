@@ -1,6 +1,8 @@
+html {
+  color-scheme: dark;
+}
+
 body {
-  background: #ffffff;
-  color: #000000;
   font-family: system-ui, sans-serif;
   font-size: 1.125rem;
   line-height: 1.6;
@@ -14,3 +16,5 @@ h2 { font-size: 2.75rem; font-weight: 300; }
 h3 { font-size: 1.625rem; font-weight: 300; }
 
 h1, h2, h3 { line-height: 1; }
+
+li { list-style-type: none; }

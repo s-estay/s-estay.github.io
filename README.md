@@ -1,5 +1,6 @@
 # what is this?
 - personal website created using [jekyll](https://jekyllrb.com)
+
 # initial setup
 ## install ruby
 - `brew list ruby --v`
@@ -65,3 +66,51 @@ gem "base64", "~> 0.2.0"
 ## run site locally
 - `bundle exec jekyll serve`
 - [http://localhost:4000](http://localhost:4000)
+
+# blog
+## rename base layout
+- rename `_layouts/default.html` to `_layouts/base.html`
+## create post
+- `mkdir _posts`
+- `touch 2024-11-21-hello.md`
+```
+---
+layout: base
+title:  "hello"
+---
+# hello
+Lorem ipsum odor amet, consectetuer adipiscing elit. Velit elementum faucibus; sodales luctus dignissim nam finibus. Lobortis varius a gravida euismod augue dapibus. Dignissim mollis venenatis et taciti fermentum montes sociosqu potenti. Commodo convallis ultricies rhoncus vel neque. Magnis per faucibus fusce scelerisque ad feugiat iaculis. Dolor ante natoque elementum leo integer non vehicula libero est. Diam ut finibus lorem, sem ad et.
+```
+## add blog layout
+- `touch _layouts/blog.html`
+```
+---
+layout: base
+---
+{% for post in site.posts %}
+  <li><a href="{{ post.url }}">{{ post.title | downcase }}</a> • {{ post.date | date: '%Y %m %d' }}</li>
+{% endfor %}
+```
+- the formatting inside the curly brackets is called [liquid](https://github.com/Shopify/liquid)
+- change the front matter in `index.md`
+```
+---
+layout: blog
+title: "blog"
+---
+```
+## formatting the <li> element
+- `vim assets/css/main.css`
+- `li { list-style-type: none; }`
+
+---
+
+# Road map
+- [] header
+- [] footer
+- [] navigation
+- [] dark light theme toggle
+- [] [code block](https://jekyllrb.com/docs/liquid/tags/)
+- [] style `<li>` elements when hover
+- [] [tags](https://jekyllrb.com/docs/posts/#tags-and-categories)
+- [] date and tags below blog entry title
