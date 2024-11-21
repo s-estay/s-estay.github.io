@@ -55,6 +55,13 @@ gem "jekyll", "~> 4.3"
 gem "csv", "~> 3.3"
 gem "base64", "~> 0.2.0"
 ```
+## remove sass and use plain css
+- sass `@import` has been deprecated, `@use` and `@forward` should be used instead
+- after trying (and failing) to make the transition, i gave up and went back to plain and simple css
+- `rm -rf _sass`
+- rename `assets/css/main.scss` to `assets/css/main.css`
+- remove the use of variables in `assets/css/main.css`
+- remove the [front matter](https://jekyllrb.com/docs/front-matter/) in `assets/css/main.css`
 ## run site locally
 - `bundle exec jekyll serve`
 - [http://localhost:4000](http://localhost:4000)
