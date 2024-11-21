@@ -59,7 +59,7 @@ gem "base64", "~> 0.2.0"
 - [breaking change @import](https://sass-lang.com/documentation/breaking-changes/import/)
 - [the new sass module system](https://stefaniefluin.medium.com/the-new-sass-module-system-out-with-import-in-with-use-e1bd8ba032d0)
 - `vim assets/css/main.scss`
-- replace `@import "base";` with `@use "base" as *;`
+- ~~replace `@import "base";` with `@use "base";`~~
 ## run site locally
 - `bundle exec jekyll serve`
 - [http://localhost:4000](http://localhost:4000)
