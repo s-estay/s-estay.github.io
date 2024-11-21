@@ -52,6 +52,8 @@ Gemfile.lock
 source "https://rubygems.org"
 # gem "rails"
 gem "jekyll", "~> 4.3"
+gem "csv", "~> 3.3"
+gem "base64", "~> 0.2.0"
 ```
 ## fix sass warning
 - [breaking change @import](https://sass-lang.com/documentation/breaking-changes/import/)
