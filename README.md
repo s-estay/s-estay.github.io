@@ -12,7 +12,7 @@
 - create new public repo in github : `<user-name>/<user-name>.github.io`
 - init repo with a readme
 - `git clone git@github.com:<user-name>/<user-name>.github.io.git`
-## add jekyll 
+## add jekyll
 - `cd <user-name>.github.io`
 - `bundle init`
 - `ls`
@@ -26,6 +26,8 @@ Gemfile Gemfile.lock README.md _site
 source "https://rubygems.org"
 # gem "rails"
 gem "jekyll", "~> 4.3"
+gem "csv", "~> 3.3"
+gem "base64", "~> 0.2.0"
 ```
 ## create blank site
 - [new option: create a blank site, without a template by default](https://github.com/jekyll/jekyll/issues/5260)
@@ -40,7 +42,17 @@ Gemfile Gemfile.lock README.md _config.yml _data _drafts _includes _layouts _pos
 _site/
 .jekyll-cache/
 Gemfile.lock
-``` 
+```
+## fix ruby warnings
+- `bundle add csv`
+- `bundle add base64`
+- `bat Gemfile`
+```
+# frozen_string_literal: true
+source "https://rubygems.org"
+# gem "rails"
+gem "jekyll", "~> 4.3"
+```
 ## fix sass warning
 - [breaking change @import](https://sass-lang.com/documentation/breaking-changes/import/)
 - [the new sass module system](https://stefaniefluin.medium.com/the-new-sass-module-system-out-with-import-in-with-use-e1bd8ba032d0)
