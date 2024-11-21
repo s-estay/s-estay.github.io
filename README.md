@@ -109,6 +109,6 @@ title: "blog"
 - [ ] navigation
 - [ ] dark light theme toggle
 - [ ] [code block](https://jekyllrb.com/docs/liquid/tags/)
-- [ ] style link elements when hover
+- [x] style link elements
 - [ ] [tags](https://jekyllrb.com/docs/posts/#tags-and-categories)
 - [ ] date and tags below blog entry title

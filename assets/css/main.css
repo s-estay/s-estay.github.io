@@ -18,3 +18,5 @@ h3 { font-size: 1.625rem; font-weight: 300; }
 h1, h2, h3 { line-height: 1; }
 
 li { list-style-type: none; }
+
+a { color: inherit;}
