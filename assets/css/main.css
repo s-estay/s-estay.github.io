@@ -1,11 +1,11 @@
-/* $backgroundColor: #ffffff;
-$bodyColor: #000000;
-$bodyFont: system-ui, sans-serif;
+/* ---
+---
+@import 'base'; */
 
 body {
-  background: $backgroundColor;
-  color: $bodyColor;
-  font-family: $bodyFont;
+  background: #ffffff;
+  color: #000000;
+  font-family: system-ui, sans-serif;
   font-size: 1.125rem;
   line-height: 1.6;
   margin: 0 auto;
@@ -17,4 +17,4 @@ h1 { font-size: 4.25rem; font-weight: 900; }
 h2 { font-size: 2.75rem; font-weight: 300; }
 h3 { font-size: 1.625rem; font-weight: 300; }
 
-h1, h2, h3 { line-height: 1; } */
+h1, h2, h3 { line-height: 1; }
