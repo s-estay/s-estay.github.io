@@ -99,18 +99,16 @@ layout: blog
 title: "blog"
 ---
 ```
-## formatting the <li> element
+## formatting the list element
 - `vim assets/css/main.css`
 - `li { list-style-type: none; }`
 
----
-
 # Road map
-- [] header
-- [] footer
-- [] navigation
-- [] dark light theme toggle
-- [] [code block](https://jekyllrb.com/docs/liquid/tags/)
-- [] style `<li>` elements when hover
-- [] [tags](https://jekyllrb.com/docs/posts/#tags-and-categories)
-- [] date and tags below blog entry title
+- [ ] header
+- [ ] footer
+- [ ] navigation
+- [ ] dark light theme toggle
+- [ ] [code block](https://jekyllrb.com/docs/liquid/tags/)
+- [ ] style link elements when hover
+- [ ] [tags](https://jekyllrb.com/docs/posts/#tags-and-categories)
+- [ ] date and tags below blog entry title
