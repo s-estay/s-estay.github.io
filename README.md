@@ -1,1 +1,1 @@
-# s-estay.github.io
+- Personal website created using [Jekyll](https://jekyllrb.com)
