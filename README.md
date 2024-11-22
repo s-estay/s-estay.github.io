@@ -88,7 +88,7 @@ Lorem ipsum odor amet, consectetuer adipiscing elit. Velit elementum faucibus; s
 layout: base
 ---
 {% for post in site.posts %}
-  <li><a href="{{ post.url }}">{{ post.title | downcase }}</a> • {{ post.date | date: '%Y %m %d' }}</li>
+  <li><a href="{{ post.url }}">{{ post.title | downcase }}</a> • {{ post.date | date: '%d %B %Y' | downcase }}</li>
 {% endfor %}
 ```
 - the formatting inside the curly brackets is called [liquid](https://github.com/Shopify/liquid)
@@ -103,10 +103,46 @@ title: "blog"
 - `vim assets/css/main.css`
 - `li { list-style-type: none; }`
 
+# header & footer
+## _includes folder
+- `mkdir _includes`
+- `touch _includes/header.html`
+- `touch _includes/footer.html`
+## empty header
+```html
+<header>
+</header>
+```
+## empty footer
+```html
+<footer>
+</footer>
+```
+## add header & footer to base layout
+```html
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <title>{{ page.title }} • {{ site.title }}</title>
+    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+  </head>
+  <body>
+    {% include header.html %}
+    <main>
+      {{ content }}
+    </main>
+  </body>
+  {% include footer.html %}
+</html>
+```
+
 # Road map
-- [ ] header
-- [ ] footer
+- [x] header
+- [x] footer
 - [ ] navigation
+- [ ] grid and flexbox
 - [ ] dark light theme toggle
 - [ ] [code block](https://jekyllrb.com/docs/liquid/tags/)
 - [x] style link elements
