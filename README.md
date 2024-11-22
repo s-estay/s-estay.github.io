@@ -138,7 +138,31 @@ title: "blog"
 </html>
 ```
 
-# Road map
+# git workflow
+- `git checkout -b develop`
+- make some changes
+- notice `main` has been updated
+- commit changes to `develop`
+- `git switch main`
+- `git pull`
+- bring those changes back into `develop`
+- `git switch develop`
+- `git rebase main`
+- make some more changes
+- commit them to `develop`
+- merge them into `main`
+- `git switch main`
+- `git pull`
+- `git merge develop`
+## add more changes to the last commit
+- `git add <file-name>`
+- `git commit --amend --no-edit`
+## reset local main to remote main
+- **be careful**
+- `git fetch origin`
+- `git reset --hard origin/main`
+
+# road map
 - [x] header
 - [x] footer
 - [ ] navigation
