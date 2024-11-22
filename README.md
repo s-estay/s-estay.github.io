@@ -83,7 +83,7 @@ Lorem ipsum odor amet, consectetuer adipiscing elit. Velit elementum faucibus; s
 ```
 ## add blog layout
 - `touch _layouts/blog.html`
-```
+```html
 ---
 layout: base
 ---
@@ -138,7 +138,31 @@ title: "blog"
 </html>
 ```
 
+# grid
+## grid template
+- add grid template definition to the `body` container
+```css
+body {
+  font-family: system-ui, sans-serif;
+  font-size: 1.125rem;
+  line-height: 1.6;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 600px 1fr;
+  grid-template-rows: 100px minmax(calc(100vh - 200px), 1fr) 100px;
+  grid-template-areas: "header header header" ". main ." "footer footer footer";
+}
+```
+## grid areas
+- add background color to be able to see the different areas
+```css
+header { grid-area: header; background-color: lightgray; }
+main { grid-area: main; }
+footer { grid-area: footer; background-color: lightgray; }
+```
+
 # git workflow
+## use two branches to avoid errors
 - `git checkout -b develop`
 - make some changes
 - notice `main` has been updated
@@ -154,7 +178,11 @@ title: "blog"
 - `git switch main`
 - `git pull`
 - `git merge develop`
-## add more changes to the last commit
+- when done, push to remote
+- `git switch main`
+- `git push`
+## add more changes to the lastest commit
+- can't do this after `git push`
 - `git add <file-name>`
 - `git commit --amend --no-edit`
 ## reset local main to remote main
@@ -166,7 +194,8 @@ title: "blog"
 - [x] header
 - [x] footer
 - [ ] navigation
-- [ ] grid and flexbox
+- [ ] flexbox (one dimensional elements)
+- [x] grid (two dimensional elements)
 - [ ] dark light theme toggle
 - [ ] [code block](https://jekyllrb.com/docs/liquid/tags/)
 - [x] style link elements
