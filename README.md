@@ -112,3 +112,4 @@ title: "blog"
 - [x] style link elements
 - [ ] [tags](https://jekyllrb.com/docs/posts/#tags-and-categories)
 - [ ] date and tags below blog entry title
+- [ ] draft posts
