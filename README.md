@@ -161,6 +161,33 @@ main { grid-area: main; }
 footer { grid-area: footer; background-color: lightgray; }
 ```
 
+# blog entry layout
+## add blog entry layout
+- `touch _layouts/blog-entry.html`
+```html
+---
+layout: base
+---
+<div class = "blog-entry-container">
+  {{ content }}
+</div>
+```
+## call blog layout from blog entry
+```
+---
+layout: blog-entry
+title:  "hello"
+---
+```
+## use div to style blog entry
+```css
+.blog-entry-container {
+  height: calc(100% - 4em);
+  margin-top: 2em;
+  padding-bottom: 2em;
+}
+```
+
 # git workflow
 ## use two branches to avoid errors
 - `git checkout -b develop`
@@ -194,11 +221,15 @@ footer { grid-area: footer; background-color: lightgray; }
 - [x] header
 - [x] footer
 - [ ] navigation
+- [ ] svg icons
 - [ ] flexbox (one dimensional elements)
 - [x] grid (two dimensional elements)
 - [ ] dark light theme toggle
+- [x] blog index layout
+- [x] blog entry layout
 - [ ] [code block](https://jekyllrb.com/docs/liquid/tags/)
 - [x] style link elements
 - [ ] [tags](https://jekyllrb.com/docs/posts/#tags-and-categories)
 - [ ] date and tags below blog entry title
 - [ ] draft posts
+- [ ] favicon
