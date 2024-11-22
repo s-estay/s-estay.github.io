@@ -29,7 +29,13 @@ footer { grid-area: footer; background-color: lightgray; }
   margin-bottom: 2em;
 }
 
-h1 { font-size: 4.25rem; font-weight: 900; }
+.blog-entry-container {
+  height: calc(100% - 4em);
+  margin-top: 2em;
+  padding-bottom: 2em;
+}
+
+h1 { font-size: 4.25rem; font-weight: 900; margin-top: 0; }
 h2 { font-size: 2.75rem; font-weight: 300; }
 h3 { font-size: 1.625rem; font-weight: 300; }
 
