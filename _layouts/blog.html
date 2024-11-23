@@ -1,17 +1,6 @@
 ---
 layout: base
 ---
-<!-- <div class = "blog-entries-container desktop-viewport">
-  {% for post in site.posts %}
-    <div class = "blog-list-entry">
-      <a href="{{ post.url }}">{{ post.title | downcase }}</a>
-      •
-      <time>{{ post.date | date: '%d %B %Y' | downcase }}</time>
-    </div>
-  {% endfor %}
-</div> -->
-
-<!-- <div class = "blog-entries-container mobil-viewport"> -->
 <div class = "blog-entries-container">
   {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
   {% for year in postsByYear %}
