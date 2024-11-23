@@ -188,6 +188,47 @@ title:  "hello"
 }
 ```
 
+#viewports
+- two viewports: desktop and mobile
+## grid template mobil viewport
+```css
+body {
+  grid-template-columns: 1fr 8fr 1fr;
+}
+```
+## grid template desktop viewport
+```css
+@media screen and (min-width: 900px) {
+  body {
+    grid-template-columns: 1fr 600px 1fr;
+  }
+}
+```
+## group posts by year
+```html
+<div class = "blog-entries-container">
+  {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
+  {% for year in postsByYear %}
+    <h2>{{ year.name }}</h2>
+    {% for post in year.items %}
+      <div class = "blog-list-entry">
+        <a href="{{ post.url }}">{{ post.title | downcase }}</a>
+        •
+        <time>{{ post.date | date: '%d %b' | downcase }}</time>
+      </div>
+    {% endfor %}
+  {% endfor %}
+</div>
+```
+## use post entry title in layout
+- `_layouts/blog-entry.html`
+```html
+<div class = "blog-entry-container">
+  <h1>{{ page.title }}</h1>
+  {{ content }}
+</div>
+```
+
 # git workflow
 ## use two branches to avoid errors
 - `git checkout -b develop`
@@ -224,6 +265,7 @@ title:  "hello"
 - [ ] svg icons
 - [ ] flexbox (one dimensional elements)
 - [x] grid (two dimensional elements)
+- [x] viewports
 - [ ] dark light theme toggle
 - [x] blog index layout
 - [x] blog entry layout
