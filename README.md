@@ -188,7 +188,7 @@ title:  "hello"
 }
 ```
 
-#viewports
+# viewports
 - two viewports: desktop and mobile
 ## grid template mobil viewport
 ```css
