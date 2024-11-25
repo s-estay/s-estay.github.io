@@ -303,6 +303,37 @@ title: about
   {% include navigation.html %}
 </header>
 ```
+## header is a subgrid
+```css
+header {
+  display: grid;
+  grid-template-columns: 1fr 8fr 1fr;
+  grid-template-rows: 100px calc(100svh - 100px);
+}
+
+@media screen and (min-width: 900px) {
+  header {
+    grid-template-columns: 1fr 600px 1fr;
+  }
+}
+
+nav {
+  grid-column: 2 / 3;
+  grid-row: 1 / 2;
+}
+```
+## navbar flexbox
+```css
+nav ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+```
 ## style navbar
 ```css
 nav ul li {
@@ -345,9 +376,9 @@ nav ul li {
 # road map
 - [x] header
 - [x] footer
-- [ ] navigation (home and tag page)
+- [x] navigation (home and tag page)
 - [ ] svg icons
-- [ ] flexbox (one dimensional elements)
+- [x] flexbox (one dimensional elements)
 - [x] grid (two dimensional elements)
 - [x] viewports
 - [ ] dark light theme toggle
