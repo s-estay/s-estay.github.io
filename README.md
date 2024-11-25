@@ -245,7 +245,17 @@ layout: base
 title: about
 ---
 ```
-
+## navigation info
+- `mkdir _data`
+- `touch _data/navigation.yml`
+```
+- title: blog
+  url: /
+- title: tags
+  url: /tags
+- title: about
+  url: /about
+```
 
 # git workflow
 ## use two branches to avoid errors
