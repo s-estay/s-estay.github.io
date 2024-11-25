@@ -1,16 +1,17 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: "en-US" }}" class="">
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8">
     <title>{{ page.title }} • {{ site.title }}</title>
     <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+    <script type="text/javascript" src="/assets/js/light-dark.js" defer></script>
   </head>
   <body>
     {% include header.html %}
     <main>
       {{ content }}
     </main>
+    {% include footer.html %}
   </body>
-  {% include footer.html %}
 </html>

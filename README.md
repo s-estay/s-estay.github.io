@@ -1,5 +1,6 @@
 # what is this?
 - personal website created using [jekyll](https://jekyllrb.com)
+- the concept is to be as clean and simple as possible
 
 # initial setup
 ## install ruby
@@ -149,7 +150,7 @@ body {
   margin: 0 auto;
   display: grid;
   grid-template-columns: 1fr 600px 1fr;
-  grid-template-rows: 100px minmax(calc(100vh - 200px), 1fr) 100px;
+  grid-template-rows: 100px minmax(calc(100svh - 200px), 1fr) 100px;
   grid-template-areas: "header header header" ". main ." "footer footer footer";
 }
 ```
@@ -189,7 +190,7 @@ title:  "hello"
 ```
 
 # viewports
-- two viewports: desktop and mobile
+- two viewports : desktop and mobile
 ## grid template mobil viewport
 ```css
 body {
@@ -245,7 +246,7 @@ layout: base
 title: about
 ---
 ```
-## navigation info
+## navigation pages
 - `mkdir _data`
 - `touch _data/navigation.yml`
 ```
@@ -257,7 +258,7 @@ title: about
   url: /about
 ```
 ## jekyll navbar
-- [Jekyll navigation bar with automatic highlighting](https://gist.github.com/pdarragh/c7ca120604c1a1d8b8de)
+- [jekyll navigation bar with automatic highlighting](https://gist.github.com/pdarragh/c7ca120604c1a1d8b8de)
 - `touch _includes/navigation.html`
 ```html
 {% for entry in site.data.navigation %}
@@ -276,7 +277,7 @@ title: about
       {% if entry.url == current_page %}
         {% assign current = ' class="current"' %}
       {% else %}
-        <!-- We have to declare it 'null' to ensure it doesn't propagate. -->
+        <!-- we have to declare it 'null' to ensure it doesn't propagate. -->
         {% assign current = null %}
       {% endif %}
       {% assign sublinks = entry.sublinks %}
@@ -329,19 +330,114 @@ nav ul {
   flex-direction: row;
   justify-content: flex-start;
   align-items: center;
+  gap: 2em;
+  height: 100%;
   margin: 0;
   padding: 0;
-  height: 100%;
 }
 ```
 ## style navbar
 ```css
-nav ul li {
-  list-style-type: none;
-  padding-right: 2em;
-  opacity: 0.5;
+nav ul {
+  & li {
+    list-style-type: none;
+    opacity: 0.5;
 }
 .current { opacity: 1; }
+```
+
+# dark/light toggle
+- [create a dark mode switch with html, css & javascript](https://youtu.be/_gKEUYarehE)
+## light is default
+- default : `:root { color-scheme: light; }`
+- add class `dark-mode` to `html` element in `_layouts/base.html`
+- `<html lang="{{ site.lang | default: "en-US" }}" class="dark-mode">`
+- style `dark-mode` class : `.dark-mode { color-scheme: dark; }`
+- we go back to default (light) when we remove the `dark-mode` class
+## add button to navbar
+```html
+<button id="theme-switch">
+</button>
+```
+## align button
+```css
+nav ul {
+  & button {
+    margin-left: auto;
+    border-style: none;
+  }
+}
+```
+## icons
+- go to [google font icons](https://fonts.google.com/icons)
+- search `light mode` and `dark mode` icons
+- select `fill` and download as `svg`
+- paste both svg codes inside the `button` tag
+- give the svgs an id
+```html
+<button id="theme-switch">
+  <svg id="moon" > moon svg coordinates </svg>
+  <svg id="sun" > sun svg coordinates </svg>
+</button>
+```
+## svg aligment & color
+- use [system colors](https://developer.mozilla.org/en-US/docs/Web/CSS/system-color)
+```css
+#theme-switch {
+  height: 3em;
+  width: 3em;
+  border-radius: 50%;
+  background-color: Canvas;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  & svg { fill: CanvasText; opacity: 0.5; }
+  & svg:hover { opacity: 1; }
+}
+```
+## hide the sun
+- light mode : only moon is visible
+```css
+#theme-switch {
+  & svg:last-child { display: none; }
+}
+```
+## hide the moon
+- dark mode : only sun is visible
+```css
+.dark-mode #theme-switch svg:first-child { display: none; }
+.dark-mode #theme-switch svg:last-child { display: block; }
+```
+## javascript
+- `mkdir assets/js`
+- `touch assets/js/light-dark.js`
+- add link to `light-dark.js` inside `head` in the base layout
+```html
+<script type="text/javascript" src="/assets/js/light-dark.js" defer></script>
+```
+- `light-dark.js`
+```js
+let darkMode = localStorage.getItem('dark-mode')
+const themeSwitch = document.getElementById('theme-switch')
+
+const enableDarkMode = () => {
+  document.documentElement.classList.add('dark-mode')
+  localStorage.setItem('dark-mode', 'active')
+}
+
+const disableDarkMode = () => {
+  document.documentElement.classList.remove('dark-mode')
+  localStorage.setItem('dark-mode', null)
+}
+
+if (darkMode === 'active') enableDarkMode()
+
+themeSwitch.addEventListener("click", () => {
+  darkMode = localStorage.getItem('dark-mode')
+  darkMode !== "active" ? enableDarkMode() : disableDarkMode()
+})
 ```
 
 # git workflow
@@ -375,13 +471,13 @@ nav ul li {
 
 # road map
 - [x] header
-- [ ] footer
-- [x] navigation (home and tag page)
+- [x] footer
+- [x] navigation
 - [ ] svg icons
 - [x] flexbox (one dimensional elements)
 - [x] grid (two dimensional elements)
 - [x] viewports
-- [ ] dark light theme toggle
+- [x] dark/light theme toggle
 - [x] blog index layout
 - [x] blog entry layout
 - [ ] [code block](https://jekyllrb.com/docs/liquid/tags/)

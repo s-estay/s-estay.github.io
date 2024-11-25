@@ -1,4 +1,4 @@
-html {
+:root {
   color-scheme: light;
 }
 
@@ -11,6 +11,10 @@ body {
   grid-template-columns: 1fr 8fr 1fr;
   grid-template-rows: 100px minmax(calc(100svh - 200px), 1fr) 100px;
   grid-template-areas: "header header header" ". main ." "footer footer footer";
+}
+
+.dark-mode {
+  color-scheme: dark;
 }
 
 @media screen and (min-width: 900px) {
@@ -45,29 +49,52 @@ nav ul {
   flex-direction: row;
   justify-content: flex-start;
   align-items: center;
+  gap: 2em;
+  height: 100%;
   margin: 0;
   padding: 0;
-  height: 100%;
+
+  & li {
+    list-style-type: none;
+    opacity: 0.5;
+  }
+
+  & button {
+    margin-left: auto;
+    border-style: none;
+  }
 }
 
-nav ul li {
-  list-style-type: none;
-  padding-right: 2em;
-  opacity: 0.5;
+#theme-switch {
+  height: 3em;
+  width: 3em;
+  border-radius: 50%;
+  background-color: Canvas;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  & svg { fill: CanvasText; opacity: 0.5; }
+  & svg:hover { opacity: 1; }
+  & svg:last-child { display: none; }
 }
+
+.dark-mode #theme-switch svg:first-child { display: none; }
+.dark-mode #theme-switch svg:last-child { display: block; }
 
 .blog-entries-container {
-  height: calc(100% - 4em);
+  height: calc(100% - 3em);
   margin-top: 1em;
   margin-bottom: 2em;
-}
 
-.blog-entries-container h2:first-child {
-  margin-top: 0;
+  & h2:first-child {
+    margin-top: 0;
+  }
 }
 
 .blog-entry-container {
-  height: calc(100% - 4em);
+  height: calc(100% - 3em);
   margin-top: 1em;
   padding-bottom: 2em;
 }
