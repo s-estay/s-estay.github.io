@@ -375,7 +375,7 @@ nav ul li {
 
 # road map
 - [x] header
-- [x] footer
+- [ ] footer
 - [x] navigation (home and tag page)
 - [ ] svg icons
 - [x] flexbox (one dimensional elements)
@@ -390,7 +390,7 @@ nav ul li {
 - [x] style link elements
 - [ ] [tags](https://jekyllrb.com/docs/posts/#tags-and-categories)
 - [ ] date and tags above/below blog entry title
-- [ ] tag page
+- [x] tag page
 - [ ] draft posts
 - [ ] favicon
 - [ ] github actions (how they work & features)
