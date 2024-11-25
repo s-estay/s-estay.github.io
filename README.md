@@ -229,6 +229,24 @@ body {
 </div>
 ```
 
+# navigation
+## add more pages
+- `touch tags.md`
+```
+---
+layout: base
+title: tags
+---
+```
+- `touch about.md`
+```
+---
+layout: base
+title: about
+---
+```
+
+
 # git workflow
 ## use two branches to avoid errors
 - `git checkout -b develop`
@@ -261,7 +279,7 @@ body {
 # road map
 - [x] header
 - [x] footer
-- [ ] navigation
+- [ ] navigation (home and tag page)
 - [ ] svg icons
 - [ ] flexbox (one dimensional elements)
 - [x] grid (two dimensional elements)
@@ -270,8 +288,15 @@ body {
 - [x] blog index layout
 - [x] blog entry layout
 - [ ] [code block](https://jekyllrb.com/docs/liquid/tags/)
+- [ ] inline code highlight
+- [ ] [syntax highlight](https://jun711.github.io/web/how-to-highlight-code-on-a-Jekyll-site-syntax-highlighting/)
 - [x] style link elements
 - [ ] [tags](https://jekyllrb.com/docs/posts/#tags-and-categories)
-- [ ] date and tags below blog entry title
+- [ ] date and tags above/below blog entry title
+- [ ] tag page
 - [ ] draft posts
 - [ ] favicon
+- [ ] github actions (how they work & features)
+- [ ] images
+- [ ] *back to the top* button
+- [ ] keyboard navigation shortcuts
