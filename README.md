@@ -256,6 +256,62 @@ title: about
 - title: about
   url: /about
 ```
+## jekyll navbar
+- [Jekyll navigation bar with automatic highlighting](https://gist.github.com/pdarragh/c7ca120604c1a1d8b8de)
+- `touch _includes/navigation.html`
+```html
+{% for entry in site.data.navigation %}
+{% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}
+  {% if fullurl == page.url %}
+    {% assign current_page = fullurl %}
+    {% break %}
+  {% elsif page.url contains fullurl %}
+    {% assign current_page = fullurl %}
+  {% endif %}
+{% endfor %}
+
+<nav>
+  <ul>
+    {% for entry in site.data.navigation %}
+      {% if entry.url == current_page %}
+        {% assign current = ' class="current"' %}
+      {% else %}
+        <!-- We have to declare it 'null' to ensure it doesn't propagate. -->
+        {% assign current = null %}
+      {% endif %}
+      {% assign sublinks = entry.sublinks %}
+      {% if sublinks %}
+        <li{{ current }}>
+          <a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
+          <ul>
+            {% for sublink in sublinks %}
+              <li><a href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a></li>
+            {% endfor %}
+          </ul>
+        </li>
+      {% else %}
+      <li{{ current }}><a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</nav>
+```
+## add navigation to header
+`_includes/header.html`
+```html
+<header>
+  {% include navigation.html %}
+</header>
+```
+## style navbar
+```css
+nav ul li {
+  list-style-type: none;
+  padding-right: 2em;
+  opacity: 0.5;
+}
+.current { opacity: 1; }
+```
 
 # git workflow
 ## use two branches to avoid errors
