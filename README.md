@@ -454,6 +454,7 @@ themeSwitch.addEventListener("click", () => {
 ```
 
 # drafts
+## create drafts
 - drafts are posts without a date in the filename
 - they’re posts you’re still working on and don’t want to publish yet
 - `mkdir _drafts`
@@ -465,6 +466,8 @@ title: "a draft post"
 ---
 ```
 - `bundle exec jekyll serve --drafts`
+## ignore drafts
+- add `_drafts/` to `.gitignore`
 
 # git workflow
 ## use two branches to avoid errors
