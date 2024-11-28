@@ -2,6 +2,18 @@
 - personal website created using [jekyll](https://jekyllrb.com)
 - the concept is to be as clean and simple as possible
 
+# index
+- [initial setup](https://github.com/s-estay/s-estay.github.io/tree/main#initial-setup)
+- [blog](https://github.com/s-estay/s-estay.github.io/tree/main#blog)
+- [header & footer](https://github.com/s-estay/s-estay.github.io/tree/main#header--footer)
+- [grid](https://github.com/s-estay/s-estay.github.io/tree/main#grid)
+- [blog entry layout](https://github.com/s-estay/s-estay.github.io/tree/main#blog-entry-layout)
+- [viewports](https://github.com/s-estay/s-estay.github.io/tree/main#viewports)
+- [navigation](https://github.com/s-estay/s-estay.github.io/tree/main#navigation)
+- [dark/light toggle](https://github.com/s-estay/s-estay.github.io/tree/main#darklight-toggle)
+- [git workflow](https://github.com/s-estay/s-estay.github.io/tree/main#git-workflow)
+- [road map](https://github.com/s-estay/s-estay.github.io/tree/main#road-map)
+
 # initial setup
 ## install ruby
 - `brew list ruby --v`
