@@ -493,3 +493,4 @@ themeSwitch.addEventListener("click", () => {
 - [ ] images
 - [ ] *back to the top* button
 - [ ] keyboard navigation shortcuts
+- [ ] inline emoji support
