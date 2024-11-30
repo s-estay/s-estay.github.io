@@ -12,6 +12,7 @@
 - [navigation](#navigation)
 - [dark/light toggle](#darklight-toggle)
 - [drafts](#drafts)
+- [tags](#tags)
 - [git workflow](#git-workflow)
 - [road map](#road-map)
 
@@ -469,6 +470,27 @@ title: "a draft post"
 ## ignore drafts
 - add `_drafts/` to `.gitignore`
 
+# tags
+## add tags to a post
+- post's front matter : `tags: [tag, two words]`
+## tags page
+```html
+---
+layout: base
+title: tags
+---
+<div class = "main-container">
+  {% for tag in site.tags %}
+    <h2>{{ tag[0] }}</h2>
+      {% for post in tag[1] %}
+        <a href="{{ post.url }}">{{ post.title | downcase }}</a>
+        •
+        <time>{{ post.date | date: '%d %b' | downcase }}</time>
+      {% endfor %}
+  {% endfor %}
+</div>
+```
+
 # git workflow
 ## use two branches to avoid errors
 - `git checkout -b develop`
@@ -502,7 +524,7 @@ title: "a draft post"
 - [x] header
 - [x] footer
 - [x] navigation
-- [ ] svg icons
+- [x] svg icons
 - [x] flexbox (one dimensional elements)
 - [x] grid (two dimensional elements)
 - [x] viewports
@@ -513,11 +535,12 @@ title: "a draft post"
 - [ ] inline code highlight
 - [ ] [syntax highlight](https://jun711.github.io/web/how-to-highlight-code-on-a-Jekyll-site-syntax-highlighting/)
 - [x] style link elements
-- [ ] [tags](https://jekyllrb.com/docs/posts/#tags-and-categories)
-- [ ] date and tags above/below blog entry title
+- [x] [tags](https://jekyllrb.com/docs/posts/#tags-and-categories)
 - [x] tag page
+- [ ] date above/below blog entry title
 - [x] drafts
-- [ ] favicon
+- [ ] [favicon i](https://css-tricks.com/svg-favicons-and-all-the-fun-things-we-can-do-with-them/)
+- [ ] [favicon ii](https://medium.com/swlh/are-you-using-svg-favicons-yet-a-guide-for-modern-browsers-836a6aace3df)
 - [ ] github actions (how they work & features)
 - [ ] images
 - [ ] *back to the top* button
