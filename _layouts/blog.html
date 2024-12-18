@@ -7,7 +7,7 @@ layout: base
     <h2>{{ year.name }}</h2>
     {% for post in year.items %}
       <div class = "blog-list-entry">
-        <a href="{{ post.url }}">{{ post.title | downcase }}</a>
+        <a href = "{{ post.url }}">{{ post.title }}</a>
         •
         <time>{{ post.date | date: '%d %b' | downcase }}</time>
       </div>
