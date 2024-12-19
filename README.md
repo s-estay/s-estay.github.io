@@ -1,44 +1,45 @@
-# what is this?
-- personal website created using [jekyll](https://jekyllrb.com)
-- the concept is to be as clean and simple as possible
+# What is this?
+- Personal website created using [Jekyll](https://jekyllrb.com)
+- The concept is to be as clean and simple as possible
+- Styled with plain CSS and sprinkled with a bit of vanilla JavaScript
 
-# index
-- [initial setup](#initial-setup)
-- [blog](#blog)
-- [header & footer](#header--footer)
-- [grid](#grid)
-- [blog entry layout](#blog-entry-layout)
-- [viewports](#viewports)
-- [navigation](#navigation)
-- [dark/light toggle](#darklight-toggle)
-- [drafts](#drafts)
-- [tags](#tags)
+# Index
+- [Initial setup](#initial-setup)
+- [Blog](#blog)
+- [Header & footer](#header--footer)
+- [Grid](#grid)
+- [Blog entry layout](#blog-entry-layout)
+- [Viewports](#viewports)
+- [Navigation](#navigation)
+- [Dark/light toggle](#darklight-toggle)
+- [Drafts](#drafts)
+- [Tags](#tags)
 - [Open external links in a new tab](#open-external-links-in-a-new-tab)
-- [git workflow](#git-workflow)
-- [road map](#road-map)
+- [Git workflow](#git-workflow)
+- [Road map](#road-map)
 
-# initial setup
-## install ruby
+# Initial setup
+## Install Ruby
 - `brew list ruby --v`
 - `brew install ruby` or `brew upgrade ruby`
-## install jekyll
+## Install Jekyll
 - `gem install jekyll bundler`
 - `gem update --system`
 - `gem -v`
-## clone repo
-- create new public repo in github : `<user-name>/<user-name>.github.io`
-- init repo with a readme
+## Clone repo
+- Create new public repo in GitHub: `<user-name>/<user-name>.github.io`
+- Init repo with a README
 - `git clone git@github.com:<user-name>/<user-name>.github.io.git`
-## add jekyll
+## Add Jekyll
 - `cd <user-name>.github.io`
 - `bundle init`
 - `ls`
-```
+```terminal
 Gemfile Gemfile.lock README.md _site
 ```
 - `bundle add jekyll`
 - `bat Gemfile`
-```
+```ruby
 # frozen_string_literal: true
 source "https://rubygems.org"
 # gem "rails"
@@ -46,25 +47,25 @@ gem "jekyll", "~> 4.3"
 gem "csv", "~> 3.3"
 gem "base64", "~> 0.2.0"
 ```
-## create blank site
-- [new option: create a blank site, without a template by default](https://github.com/jekyll/jekyll/issues/5260)
+## Create blank site
+- [New option: create a blank site, without a template by default](https://github.com/jekyll/jekyll/issues/5260)
 - `bundle exec jekyll new . --blank --force`
 - `ls`
-```
+```terminal
 Gemfile Gemfile.lock README.md _config.yml _data _drafts _includes _layouts _posts _sass assets index.md
 ```
-## add gitignore
+## Add gitignore
 - `touch .gitignore`
 ```
 _site/
 .jekyll-cache/
 Gemfile.lock
 ```
-## fix ruby warnings
+## Fix Ruby warnings
 - `bundle add csv`
 - `bundle add base64`
 - `bat Gemfile`
-```
+```ruby
 # frozen_string_literal: true
 source "https://rubygems.org"
 # gem "rails"
@@ -72,32 +73,32 @@ gem "jekyll", "~> 4.3"
 gem "csv", "~> 3.3"
 gem "base64", "~> 0.2.0"
 ```
-## remove sass and use plain css
-- sass `@import` has been deprecated, `@use` and `@forward` should be used instead
-- after trying (and failing) to make the transition, i gave up and went back to plain and simple css
+## Remove Sass and use plain CSS
+- Sass `@import` has been deprecated, `@use` and `@forward` should be used instead
+- After trying (and failing) to make the transition, I gave up and went back to plain and simple CSS
 - `rm -rf _sass`
-- rename `assets/css/main.scss` to `assets/css/main.css`
-- remove the use of variables in `assets/css/main.css`
-- remove the [front matter](https://jekyllrb.com/docs/front-matter/) in `assets/css/main.css`
-## run site locally
+- Rename `assets/css/main.scss` to `assets/css/main.css`
+- Remove the use of variables in `assets/css/main.css`
+- Remove the [front matter](https://jekyllrb.com/docs/front-matter/) in `assets/css/main.css`
+## Run site locally
 - `bundle exec jekyll serve`
 - [http://localhost:4000](http://localhost:4000)
 
-# blog
-## rename base layout
-- rename `_layouts/default.html` to `_layouts/base.html`
-## create post
+# Blog
+## Rename base layout
+- Rename `_layouts/default.html` to `_layouts/base.html`
+## Create post
 - `mkdir _posts`
 - `touch 2024-11-21-hello.md`
-```
+```markdown
 ---
 layout: base
 title:  "hello"
 ---
-# hello
+# Hello
 Lorem ipsum odor amet, consectetuer adipiscing elit. Velit elementum faucibus; sodales luctus dignissim nam finibus. Lobortis varius a gravida euismod augue dapibus. Dignissim mollis venenatis et taciti fermentum montes sociosqu potenti. Commodo convallis ultricies rhoncus vel neque. Magnis per faucibus fusce scelerisque ad feugiat iaculis. Dolor ante natoque elementum leo integer non vehicula libero est. Diam ut finibus lorem, sem ad et.
 ```
-## add blog layout
+## Add blog layout
 - `touch _layouts/blog.html`
 ```html
 ---
@@ -107,34 +108,34 @@ layout: base
   <li><a href="{{ post.url }}">{{ post.title | downcase }}</a> • {{ post.date | date: '%d %B %Y' | downcase }}</li>
 {% endfor %}
 ```
-- the formatting inside the curly brackets is called [liquid](https://github.com/Shopify/liquid)
-- change the front matter in `index.md`
-```
+- The formatting inside the curly brackets is called [liquid](https://github.com/Shopify/liquid)
+- Change the front matter in `index.md`
+```markdown
 ---
 layout: blog
 title: "blog"
 ---
 ```
-## formatting the list element
-- `vim assets/css/main.css`
+## Formatting the list element
+- `assets/css/main.css`
 - `li { list-style-type: none; }`
 
-# header & footer
+# Header & footer
 ## _includes folder
 - `mkdir _includes`
 - `touch _includes/header.html`
 - `touch _includes/footer.html`
-## empty header
+## Empty header
 ```html
 <header>
 </header>
 ```
-## empty footer
+## Empty footer
 ```html
 <footer>
 </footer>
 ```
-## add header & footer to base layout
+## Add header & footer to base layout
 ```html
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
@@ -154,9 +155,9 @@ title: "blog"
 </html>
 ```
 
-# grid
-## grid template
-- add grid template definition to the `body` container
+# Grid
+## Grid template
+- Add grid template definition to the `body` container
 ```css
 body {
   font-family: system-ui, sans-serif;
@@ -169,16 +170,16 @@ body {
   grid-template-areas: "header header header" ". main ." "footer footer footer";
 }
 ```
-## grid areas
-- add background color to be able to see the different areas
+## Grid areas
+- Add background color to be able to see the different areas
 ```css
 header { grid-area: header; background-color: lightgray; }
 main { grid-area: main; }
 footer { grid-area: footer; background-color: lightgray; }
 ```
 
-# blog entry layout
-## add blog entry layout
+# Blog entry layout
+## Add blog entry layout
 - `touch _layouts/blog-entry.html`
 ```html
 ---
@@ -188,14 +189,14 @@ layout: base
   {{ content }}
 </div>
 ```
-## call blog layout from blog entry
-```
+## Call blog layout from blog entry
+```html
 ---
 layout: blog-entry
 title:  "hello"
 ---
 ```
-## use div to style blog entry
+## Use div to style blog entry
 ```css
 .blog-entry-container {
   height: calc(100% - 4em);
@@ -204,15 +205,15 @@ title:  "hello"
 }
 ```
 
-# viewports
-- two viewports : desktop and mobile
-## grid template mobil viewport
+# Viewports
+- Two viewports: Desktop and mobile
+## Grid template mobil viewport
 ```css
 body {
   grid-template-columns: 1fr 8fr 1fr;
 }
 ```
-## grid template desktop viewport
+## Grid template desktop viewport
 ```css
 @media screen and (min-width: 900px) {
   body {
@@ -220,7 +221,7 @@ body {
   }
 }
 ```
-## group posts by year
+## Group posts by year
 ```html
 <div class = "blog-entries-container">
   {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
@@ -236,7 +237,7 @@ body {
   {% endfor %}
 </div>
 ```
-## use post entry title in layout
+## Use post entry title in layout
 - `_layouts/blog-entry.html`
 ```html
 <div class = "blog-entry-container">
@@ -245,26 +246,26 @@ body {
 </div>
 ```
 
-# navigation
-## add more pages
+# Navigation
+## Add more pages
 - `touch tags.md`
-```
+```markdown
 ---
 layout: base
 title: tags
 ---
 ```
 - `touch about.md`
-```
+```markdown
 ---
 layout: base
 title: about
 ---
 ```
-## navigation pages
+## Navigation pages
 - `mkdir _data`
 - `touch _data/navigation.yml`
-```
+```yaml
 - title: blog
   url: /
 - title: tags
@@ -272,8 +273,8 @@ title: about
 - title: about
   url: /about
 ```
-## jekyll navbar
-- [jekyll navigation bar with automatic highlighting](https://gist.github.com/pdarragh/c7ca120604c1a1d8b8de)
+## Jekyll navbar
+- [Jekyll navigation bar with automatic highlighting](https://gist.github.com/pdarragh/c7ca120604c1a1d8b8de)
 - `touch _includes/navigation.html`
 ```html
 {% for entry in site.data.navigation %}
@@ -312,14 +313,14 @@ title: about
   </ul>
 </nav>
 ```
-## add navigation to header
+## Add navigation to header
 `_includes/header.html`
 ```html
 <header>
   {% include navigation.html %}
 </header>
 ```
-## header is a subgrid
+## Header is a subgrid
 ```css
 header {
   display: grid;
@@ -338,7 +339,7 @@ nav {
   grid-row: 1 / 2;
 }
 ```
-## navbar flexbox
+## Navbar flexbox
 ```css
 nav ul {
   display: flex;
@@ -351,7 +352,7 @@ nav ul {
   padding: 0;
 }
 ```
-## style navbar
+## Style navbar
 ```css
 nav ul {
   & li {
@@ -361,20 +362,20 @@ nav ul {
 .current { opacity: 1; }
 ```
 
-# dark/light toggle
-- [create a dark mode switch with html, css & javascript](https://youtu.be/_gKEUYarehE)
-## light is default
-- default : `:root { color-scheme: light; }`
-- add class `dark-mode` to `html` element in `_layouts/base.html`
+# Dark/light toggle
+- [Create a dark mode switch with HTML, CSS & JavaScript](https://youtu.be/_gKEUYarehE)
+## Light is default
+- Default: `:root { color-scheme: light; }`
+- Add class `dark-mode` to `html` element in `_layouts/base.html`
 - `<html lang="{{ site.lang | default: "en-US" }}" class="dark-mode">`
-- style `dark-mode` class : `.dark-mode { color-scheme: dark; }`
-- we go back to default (light) when we remove the `dark-mode` class
-## add button to navbar
+- Style `dark-mode` class: `.dark-mode { color-scheme: dark; }`
+- We go back to default (light) when we remove the `dark-mode` class
+## Add button to navbar
 ```html
 <button id="theme-switch">
 </button>
 ```
-## align button
+## Align button
 ```css
 nav ul {
   & button {
@@ -383,20 +384,20 @@ nav ul {
   }
 }
 ```
-## icons
-- go to [google font icons](https://fonts.google.com/icons)
-- search `light mode` and `dark mode` icons
-- select `fill` and download as `svg`
-- paste both svg codes inside the `button` tag
-- give the svgs an id
+## Icons
+- Go to [Google font icons](https://fonts.google.com/icons)
+- Search `light mode` and `dark mode` icons
+- Select `fill` and download as SVG
+- Paste both SVG codes inside the `button` tag
+- Give the SVGs an id
 ```html
 <button id="theme-switch">
   <svg id="moon" > moon svg coordinates </svg>
   <svg id="sun" > sun svg coordinates </svg>
 </button>
 ```
-## svg aligment & color
-- use [system colors](https://developer.mozilla.org/en-US/docs/Web/CSS/system-color)
+## SVG aligment & color
+- Use [system colors](https://developer.mozilla.org/en-US/docs/Web/CSS/system-color)
 ```css
 #theme-switch {
   height: 3em;
@@ -412,23 +413,23 @@ nav ul {
   & svg:hover { opacity: 1; }
 }
 ```
-## hide the sun
-- light mode : only moon is visible
+## Hide the sun
+- Light mode: Only the moon is visible
 ```css
 #theme-switch {
   & svg:last-child { display: none; }
 }
 ```
-## hide the moon
-- dark mode : only sun is visible
+## Hide the moon
+- Dark mode: Only the sun is visible
 ```css
 .dark-mode #theme-switch svg:first-child { display: none; }
 .dark-mode #theme-switch svg:last-child { display: block; }
 ```
-## javascript
+## JavaScript
 - `mkdir assets/js`
 - `touch assets/js/light-dark.js`
-- add link to `light-dark.js` inside `head` in the base layout
+- Add link to `light-dark.js` inside `head` in the base layout
 ```html
 <script type="text/javascript" src="/assets/js/light-dark.js" defer></script>
 ```
@@ -455,26 +456,26 @@ themeSwitch.addEventListener("click", () => {
 })
 ```
 
-# drafts
-## create drafts
-- drafts are posts without a date in the filename
-- they’re posts you’re still working on and don’t want to publish yet
+# Drafts
+## Create drafts
+- Drafts are posts without a date in the filename
+- They’re posts you’re still working on and don’t want to publish yet
 - `mkdir _drafts`
 - `touch _drafts/a-draft-post.md`
-```
+```markdown
 ---
 layout: blog-entry
 title: "a draft post"
 ---
 ```
 - `bundle exec jekyll serve --drafts`
-## ignore drafts
+## Ignore drafts
 - add `_drafts/` to `.gitignore`
 
-# tags
-## add tags to a post
-- post's front matter : `tags: [tag, two words]`
-## tags page
+# Tags
+## Add tags to a post
+- Post's front matter: `tags: [tag, two words]`
+## Tags page
 ```html
 ---
 layout: base
@@ -493,12 +494,13 @@ title: tags
 ```
 
 # Open external links in a new tab
-- [Open External Links in New Tab](https://mrinalcs.github.io/open-external-links-in-new-tab)
+- [Open external links in new tab](https://mrinalcs.github.io/open-external-links-in-new-tab)
 - Add  the following code to the `head` section of the base layout
 ```html
 <head>
   <script type="text/javascript" src="/assets/js/external-links.js" defer></script>
 </head>
+```
 - `touch assets/js/external-links.js`
 ```js
 document.addEventListener('DOMContentLoaded', () => {
@@ -512,59 +514,59 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 ```
 
-# git workflow
-## use two branches to avoid errors
+# Git workflow
+## Use two branches to avoid errors
 - `git checkout -b develop`
-- make some changes
-- notice `main` has been updated
-- commit changes to `develop`
+- Make some changes
+- Notice `main` has been updated
+- Commit changes to `develop`
 - `git switch main`
 - `git pull`
-- bring those changes back into `develop`
+- Bring those changes back into `develop`
 - `git switch develop`
 - `git rebase main`
-- make some more changes
-- commit them to `develop`
-- merge them into `main`
+- Make some more changes
+- Commit them to `develop`
+- Merge them into `main`
 - `git switch main`
 - `git pull`
 - `git merge develop`
-- when done, push to remote
+- When done, push to remote
 - `git switch main`
 - `git push`
-## add more changes to the lastest commit
-- can't do this after `git push`
+## Add more changes to the lastest commit
+- Can't do this after `git push`
 - `git add <file-name>`
 - `git commit --amend --no-edit`
-## reset local main to remote main
-- **be careful**
+## Reset local main to remote main
+- **Be careful**
 - `git fetch origin`
 - `git reset --hard origin/main`
 
-# road map
-- [x] header
-- [x] footer
-- [x] navigation
-- [x] svg icons
-- [x] flexbox (one dimensional elements)
-- [x] grid (two dimensional elements)
-- [x] viewports
-- [x] dark/light theme toggle
-- [x] blog index layout
-- [x] blog entry layout
-- [ ] [code block](https://jekyllrb.com/docs/liquid/tags/)
-- [ ] inline code highlight
-- [ ] [syntax highlight](https://jun711.github.io/web/how-to-highlight-code-on-a-Jekyll-site-syntax-highlighting/)
-- [x] style link elements
-- [x] [tags](https://jekyllrb.com/docs/posts/#tags-and-categories)
-- [x] tag page
-- [ ] date above/below blog entry title
-- [x] drafts
-- [ ] [favicon i](https://css-tricks.com/svg-favicons-and-all-the-fun-things-we-can-do-with-them/)
-- [ ] [favicon ii](https://medium.com/swlh/are-you-using-svg-favicons-yet-a-guide-for-modern-browsers-836a6aace3df)
-- [ ] github actions (how they work & features)
-- [ ] images
-- [ ] *back to the top* button
-- [ ] keyboard navigation shortcuts
-- [ ] inline emoji support
+# Road map
+- [x] Header
+- [x] Footer
+- [x] Navigation
+- [x] SVG icons
+- [x] Flexbox (one dimensional elements)
+- [x] Grid (two dimensional elements)
+- [x] Viewports
+- [x] Dark/light theme toggle
+- [x] Blog index layout
+- [x] Blog entry layout
+- [ ] [Code block](https://jekyllrb.com/docs/liquid/tags/)
+- [ ] Inline code highlight
+- [ ] [Syntax highlight](https://jun711.github.io/web/how-to-highlight-code-on-a-Jekyll-site-syntax-highlighting/)
+- [x] Style link elements
+- [x] [Tags](https://jekyllrb.com/docs/posts/#tags-and-categories)
+- [x] Tag page
+- [ ] Date above/below blog entry title
+- [x] Drafts
+- [ ] [Favicon i](https://css-tricks.com/svg-favicons-and-all-the-fun-things-we-can-do-with-them/)
+- [ ] [Favicon ii](https://medium.com/swlh/are-you-using-svg-favicons-yet-a-guide-for-modern-browsers-836a6aace3df)
+- [ ] GitHub actions (how they work & features)
+- [ ] Images
+- [ ] Back-to-the-top button
+- [ ] Keyboard navigation shortcuts
+- [ ] Inline emoji support
 - [x] Open external links in a new tab
