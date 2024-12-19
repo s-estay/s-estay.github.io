@@ -13,6 +13,7 @@
 - [dark/light toggle](#darklight-toggle)
 - [drafts](#drafts)
 - [tags](#tags)
+- [Open external links in a new tab](#open-external-links-in-a-new-tab)
 - [git workflow](#git-workflow)
 - [road map](#road-map)
 
@@ -491,6 +492,26 @@ title: tags
 </div>
 ```
 
+# Open external links in a new tab
+- [Open External Links in New Tab](https://mrinalcs.github.io/open-external-links-in-new-tab)
+- Add  the following code to the `head` section of the base layout
+```html
+<head>
+  <script type="text/javascript" src="/assets/js/external-links.js" defer></script>
+</head>
+- `touch assets/js/external-links.js`
+```js
+document.addEventListener('DOMContentLoaded', () => {
+  const links = document.querySelectorAll('a');
+  links.forEach(link => {
+    if (link.hostname !== window.location.hostname) {
+      link.setAttribute('target', '_blank');
+      link.setAttribute('rel', 'noopener noreferrer');
+    }
+  });
+});
+```
+
 # git workflow
 ## use two branches to avoid errors
 - `git checkout -b develop`
@@ -546,3 +567,4 @@ title: tags
 - [ ] *back to the top* button
 - [ ] keyboard navigation shortcuts
 - [ ] inline emoji support
+- [x] Open external links in a new tab
