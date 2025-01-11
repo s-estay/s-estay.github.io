@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang = "{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta name = "viewport" content = "width = device-width, initial-scale = 1">
+    <meta charset = "utf-8">
+    <title>{{ site.title }}{% if page.title %}/{{ page.title | downcase | replace: " ", "-" }}{% endif %}</title>
+    <link rel = "stylesheet" href = "{{ "/assets/css/main.css" | relative_url }}">
+    <script type = "text/javascript" src = "/assets/js/roll-back-to-top.js" defer></script>
+    <script type = "text/javascript" src = "/assets/js/external-links.js" defer></script>
+  </head>
+  <body>
+    {{ content }}
+  </body>
+</html>
