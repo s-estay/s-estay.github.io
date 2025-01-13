@@ -24,6 +24,7 @@ body {
   background: var(--sumi-ink-1);
   color: var(--font-color);
   font-family: monospace;
+  font-size: 1em;
   max-width: 40em;
 }
 
@@ -52,6 +53,8 @@ footer { margin-top: 2em; margin-bottom: 2em;}
   border-style: none;
   color: var(--sakura-pink);
   background: var(--sumi-ink-1);
+  font-family: monospace;
+  font-size: 1em;
 }
 
 #scroll-to-top-button:hover { color: var(--wave-red); }
