@@ -14,6 +14,7 @@ cd s-estay.github.io
 bundle init
 bundle add jekyll
 bundle add csv
+bundle add base64
 bundle exec jekyll new . --blank --force
 rm -rf _sass
 mv assets/css/main.scss assets/css/main.css
