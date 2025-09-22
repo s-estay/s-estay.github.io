@@ -1,7 +1,7 @@
 ---
 layout: blog-entry
 title: IntelliJ setup
-tags: [programming]
+tags: [intellij, hhkb]
 ---
 After I got my HHKB I decided to go all in and learn the Vim motions in Neovim. My Neovim setup included [Treesitter](https://github.com/nvim-treesitter/nvim-treesitter) for syntax highlight, [Telescope](https://github.com/nvim-telescope/telescope.nvim) for fuzzy search, [Harpoon](https://github.com/ThePrimeagen/harpoon/tree/harpoon2) for fast navigation between files and [Tmux](https://tmux.github.io/) to manage panes and jump between them. All that worked well and my Vim-fu was getting faster and more accurate. The only problem was that as soon as I started working in Spring Boot all my attention went to learn Java in [IntelliJ](https://www.jetbrains.com/idea/download/).
 
