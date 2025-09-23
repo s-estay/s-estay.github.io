@@ -16,4 +16,4 @@ This entry aims mostly to help myself to remember how did I do the setup for my 
 
 Zed's keymap editor was very useful as a start point. My setup [here](https://gist.github.com/s-estay/81064b561368849ccfea87e16d649be0).
 
-Additionally, I've mapped the swedish letters å to righ-opt+a, ä to righ-opt+q and ö to righ-opt+o. I did this outside Zed, in Karabiner Elemets. Code [here](https://gist.github.com/s-estay/3f7e10b2f6a2a61f3efe7497d5ac6fea).
+Additionally, I've mapped the swedish letters å to `righ-opt+a`, ä to `righ-opt+q` and ö to `righ-opt+o`. I did this outside Zed, in Karabiner Elemets. Code [here](https://gist.github.com/s-estay/3f7e10b2f6a2a61f3efe7497d5ac6fea).
