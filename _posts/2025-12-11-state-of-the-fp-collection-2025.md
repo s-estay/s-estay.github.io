@@ -4,7 +4,7 @@ title: State of the collection 2025
 tags: [fountain pens]
 ---
 
-## Current lineup
+## Current lineup (11)
 
 - Kaweco Special Brass `<M>` steel nib (2025.12.14)
 - Leonardo Momento Zero Grande 2.0 Sottobosco `<1.1 mm stub>` steel nib (2025.11.28)
@@ -18,7 +18,7 @@ tags: [fountain pens]
 - Pelikan Souverän M800 Black `<EF>` 18k golb nib (2025.04.24)
 - Pilot Capless Limited Edition 2024 Seashore `<M>` 18k golb nib (2025.03.16)
 
-## Pens that I've let go
+## Pens that I've let go (6)
 
 - Platinum #3776 Century Bourgogne rhodium trim `<C>` 14k gold nib (2025.09.23 - 2025.11.24)
 - Platinum #3776 Century Laurel Green `<F>` 14k gold nib (2025.07.11 - 2025.08.28)
