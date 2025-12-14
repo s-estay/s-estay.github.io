@@ -6,6 +6,7 @@ tags: [fountain pens]
 
 ## Current lineup
 
+- Kaweco Special Brass `<M>` steel nib (2025.12.14)
 - Leonardo Momento Zero Grande 2.0 Sottobosco `<1.1 mm stub>` steel nib (2025.11.28)
 - Pilot Capless Decimo Purple `<F>` 18k golb nib (2025.11.17)
 - Kaweco Calligraphy Sport Natural Coconut `<1.5 mm stub>` steel nib (2025.10.27)
