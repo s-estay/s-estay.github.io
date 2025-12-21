@@ -4,8 +4,9 @@ title: State of the collection 2025
 tags: [fountain pens]
 ---
 
-## Current lineup (11)
+## Current lineup (12)
 
+- Lamy 2000 Black `<OB>` 14k gold nib (2025.12.18)
 - Kaweco Special Brass `<M>` steel nib (2025.12.14)
 - Leonardo Momento Zero Grande 2.0 Sottobosco `<1.1 mm stub>` steel nib (2025.11.28)
 - Pilot Capless Decimo Purple `<F>` 18k golb nib (2025.11.17)
@@ -26,3 +27,11 @@ tags: [fountain pens]
 - Pilot Custom 743 `<FA>` 14k gold nib (2025.05.12 - 2025.07.03)
 - Pilot Capless Limited Edition 2022 Red Coral `<M>` 18k golb nib (2025.04.03 - 2025.04.08)
 - Lamy 2000 Black `<F>` 14k gold nib (2025.02.01 - 2025.03.17)
+
+## Favorites 
+
+- Lamy 2000 Black `<OB>`
+- Pilot Capless Decimo Purple `<F>`
+- Pelikan Suverän M800 Black-Red `<F>`
+- Platinum #3776 Century Black Diamond `<M>`
+- Pilot Capless Seashore `<M>`
