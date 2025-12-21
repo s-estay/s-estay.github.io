@@ -33,5 +33,5 @@ tags: [fountain pens]
 - Lamy 2000 Black `<OB>`
 - Pilot Capless Decimo Purple `<F>`
 - Pelikan Suverän M800 Black-Red `<F>`
-- Platinum #3776 Century Black Diamond `<M>`
+- Platinum #3776 Black Diamond `<M>`
 - Pilot Capless Seashore `<M>`
