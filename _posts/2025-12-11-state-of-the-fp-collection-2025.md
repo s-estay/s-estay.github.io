@@ -4,8 +4,9 @@ title: State of the collection 2025
 tags: [fountain pens]
 ---
 
-## Current lineup (12)
+## Current lineup (13)
 
+- Leonardo Momento Zero Grande 2.0 Crepuscolo Marino `<1.5 mm stub>` steel nib (2025.12.28)
 - Lamy 2000 Black `<OB>` 14k gold nib (2025.12.18)
 - Kaweco Special Brass `<M>` steel nib (2025.12.14)
 - Leonardo Momento Zero Grande 2.0 Sottobosco `<1.1 mm stub>` steel nib (2025.11.28)
@@ -32,6 +33,7 @@ tags: [fountain pens]
 
 - Lamy 2000 Black `<OB>`
 - Pilot Capless Decimo Purple `<F>`
-- Pelikan Suverän M800 Black-Red `<F>`
+- Pelikan M800 Black-Red `<F>`
 - Platinum #3776 Black Diamond `<M>`
+- Pelikan M800 Black `<EF>`
 - Pilot Capless Seashore `<M>`
