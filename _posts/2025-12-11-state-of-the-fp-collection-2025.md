@@ -4,7 +4,7 @@ title: State of the fountain pen collection 2025
 tags: [fountain pens]
 ---
 
-## Current lineup (13)
+## Current lineup (12)
 
 - Leonardo Momento Zero Grande 2.0 Crepuscolo Marino `<1.5 mm stub>` steel nib (2025.12.28)
 - Lamy 2000 Black `<OB>` 14k gold nib (2025.12.18)
@@ -14,7 +14,6 @@ tags: [fountain pens]
 - Kaweco Calligraphy Sport Natural Coconut `<1.5 mm stub>` steel nib (2025.10.27)
 - Platinum #3776 Century Bourgogne rhodium trim `<B>` 14k gold nib (2025.09.10)
 - Pelikan Souverän M800 Black-Red `<F>` 18k golb nib (2025.09.02)
-- Kakimori brass dip pen (2025.09.02)
 - Platinum #3776 Century Black Diamond `<M>` 14k gold nib (2025.08.24)
 - Namiki Capless Raden Water Surface `<M>` 18k gold nib (2025.06.09)
 - Pelikan Souverän M800 Black `<EF>` 18k golb nib (2025.04.24)
@@ -35,5 +34,4 @@ tags: [fountain pens]
 - Pilot Capless Decimo Purple `<F>`
 - Pelikan M800 Black-Red `<F>`
 - Platinum #3776 Black Diamond `<M>`
-- Pelikan M800 Black `<EF>`
 - Pilot Capless Seashore `<M>`
