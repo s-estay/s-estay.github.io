@@ -34,4 +34,3 @@ tags: [fountain pens]
 - Pilot Capless Decimo Purple `<F>`
 - Pelikan M800 Black-Red `<F>`
 - Platinum #3776 Black Diamond `<M>`
-- Pilot Capless Seashore `<M>`
