@@ -8,7 +8,7 @@ layout: base
   {% assign ordered_posts = pinned_posts | concat: regular_posts %}
   {% for post in ordered_posts %}
       <div class = "blog-list-entry">
-        {% if post.pinned %}📌 {% endif %}<time>{{ post.date | date: "%Y-%m-%d" }}</time>
+        <time>{{ post.date | date: "%Y-%m-%d" }}</time>
         •
         <a href = "{{ post.url }}">{{ post.title }}</a>
         (
@@ -17,5 +17,12 @@ layout: base
           {%- endfor -%}
         )
       </div>
+      {% if post.pinned and forloop.last == false %}
+        {% assign next_index = forloop.index %}
+        {% assign next_post = ordered_posts[next_index] %}
+        {% if next_post.pinned == false %}
+          <br>
+        {% endif %}
+      {% endif %}
   {% endfor %}
 </div>
