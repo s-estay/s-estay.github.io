@@ -2,6 +2,7 @@
 layout: blog-entry
 pinned: false
 title: State of the fountain pen collection 2025
+short_title: Fountain pen collection 2025
 tags: [fountain pens]
 ---
 

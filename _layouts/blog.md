@@ -9,7 +9,7 @@ layout: base
     <div class = "blog-list-entry">
       <time>{{ post.date | date: "%Y-%m-%d" }}</time>
       •
-      <a href = "{{ post.url }}">{{ post.title }}</a>
+      <a href = "{{ post.url }}">{{ post.short_title | default: post.title }}</a>
       (
         {%- for tag in post.tags -%}
           {{ tag | downcase }} {%- unless forloop.last -%}, {% endunless %}
@@ -24,7 +24,7 @@ layout: base
     <div class = "blog-list-entry">
       <time>{{ post.date | date: "%Y-%m-%d" }}</time>
       •
-      <a href = "{{ post.url }}">{{ post.title }}</a>
+      <a href = "{{ post.url }}">{{ post.short_title | default: post.title }}</a>
       (
         {%- for tag in post.tags -%}
           {{ tag | downcase }} {%- unless forloop.last -%}, {% endunless %}
