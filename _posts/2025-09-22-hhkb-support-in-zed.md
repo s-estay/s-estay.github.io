@@ -3,6 +3,7 @@ layout: blog-entry
 title: Add HHKB support in Zed
 tags: [zed, hhkb, vim]
 ---
+
 This entry aims mostly to help myself to remember how did I do the setup for my HHKB keyboard in Zed in Vim mode. What I want to do is to move around without using the mouse, nothing fancy. These are my requirements:
 
 - Open/close the terminal with `cmd+t`
