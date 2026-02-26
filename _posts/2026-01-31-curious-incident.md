@@ -1,6 +1,7 @@
 ---
 layout: blog-entry
 title: The Curious Incident of the Dog in the Night-Time by Mark Haddon (2003)
+short_title: Curious Incident by Mark Haddon (2003)
 tags: [books]
 ---
 
