@@ -1,6 +1,6 @@
 ---
 layout: blog-entry
-title: Mörkögda augusti natt av Maria Lang (1959)
+title: Mörkögda Augusti Natt av Maria Lang (1959)
 tags: [books]
 ---
 
