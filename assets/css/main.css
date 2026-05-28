@@ -47,7 +47,8 @@ a:hover { color: var(--surimi-orange); }
 
 footer { margin-top: 2em; margin-bottom: 2em;}
 
-#scroll-to-top-button {
+.footer-button {
+  display: block;
   padding: 0;
   cursor: pointer;
   border-style: none;
@@ -57,7 +58,7 @@ footer { margin-top: 2em; margin-bottom: 2em;}
   font-size: 1em;
 }
 
-#scroll-to-top-button:hover { color: var(--wave-red); }
+.footer-button:hover { color: var(--wave-red); }
 
 a { text-decoration: none; }
 
