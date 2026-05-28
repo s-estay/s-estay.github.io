@@ -3,20 +3,6 @@ layout: blog-entry
 pinned: true
 title: Ink collection
 tags: [fountain pens]
-custom_css: |
-  table {
-    border-collapse: collapse;
-  }
-
-  th,
-  td {
-    border: 1px solid #e5e7eb;
-    padding: 0.5rem 0.75rem;
-  }
-
-  th {
-    text-align: left;
-  }
 ---
 
 ## Pilot Iroshizuku
