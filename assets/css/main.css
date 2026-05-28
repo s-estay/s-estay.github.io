@@ -59,6 +59,10 @@ footer { margin-top: 2em; margin-bottom: 2em;}
   text-decoration: none;
 }
 
+#scroll-to-top-button {
+  display: none;
+}
+
 .footer-button:hover { color: var(--wave-red); }
 
 a { text-decoration: none; }
