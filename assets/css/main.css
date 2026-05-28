@@ -62,3 +62,17 @@ footer { margin-top: 2em; margin-bottom: 2em;}
 a { text-decoration: none; }
 
 ul { padding-left: 2em; }
+
+.blog-entry-container table {
+  border-collapse: collapse;
+}
+
+.blog-entry-container th,
+.blog-entry-container td {
+  border: 1px solid #e5e7eb;
+  padding: 0.5rem 0.75rem;
+}
+
+.blog-entry-container th {
+  text-align: left;
+}
