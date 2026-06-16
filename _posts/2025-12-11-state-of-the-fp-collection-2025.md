@@ -10,7 +10,7 @@ tags: [fountain pens]
 
 | Date adquired | Brand | Model | Edition | Nib Size | Rating | 
 | --- | --- | --- | --- | --- | --- | 
-| 2026.06.08 | Pilot | Kaküno | Grey | steel `<M>` nib | - | 
+| 2026.06.08 | Pilot | Kaküno | Grey | `<M>` steel nib | - | 
 | 2026.05.25 | Sailor | 1911 Realo | Black rhodium trim | 21k `<M>` gold nib | ⭐️ |
 | 2026.05.17 | Sailor | Pro Gear | Limited Edition 2025 Ceremonial Matcha | 21k `<MF>` gold nib | ⭐️ |
 | 2026.05.16 | Sailor | Pro Gear | Black rhodium trim | 21k dualtone `<F>` gold nib | ⭐️⭐️⭐️ |
