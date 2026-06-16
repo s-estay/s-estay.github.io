@@ -22,7 +22,7 @@ tags: [fountain pens]
 | Yama-budo | Purple, medium green sheen, medium shading, wet flow | ⭐️⭐️⭐️ |
 | Kon-peki | Cerulean bright blue, low pink sheen, wet flow | ⭐️⭐️ |
 | Shin-ryoku | Medium green, medium shading, medium red sheen | ⭐️ |
-| Syo-ro | Dark teal, medium shading, wet flow | ⭐️ |
+| Syo-ro | Dark teal, medium shading, wet flow | ⭐️⭐️ |
 | Rikka | Medium blue, green undertone, medium shading | ⭐️ |
 
 ## Sailor Shikiori
@@ -31,12 +31,12 @@ tags: [fountain pens]
 | --- | --- | --- |
 | Yodaki | Medium red, high gold sheen | ⭐️⭐️⭐️ |
 | Doyou | Dark brown, black sheen, wet flow | ⭐️ |
-| Yamadori | Teal, high burgundy sheen | ⭐️⭐️⭐️ |
+| Yamadori | Teal, high burgundy sheen | ⭐️⭐️ |
 | Yonaga | Midnight blue, medium shading, medium purple and green sheen, wet flow | ⭐️ |
 | Shimoyo | Dark dusty blue-black, medium shading | ⭐️ |
-| Rikyucha | Dark olive green, brown undertone, medium shading, wet flow | ⭐️⭐️ |
+| Rikyucha | Dark olive green, brown undertone, medium shading, wet flow | ⭐️⭐️⭐️ |
 | Tokiwa-Matsu | Medium olive green, medium red sheen, wet flow | ⭐️⭐️⭐️ |
-| Waka-Uguiso | Medium spring green, medium shading | ⭐️ |
+| Waka-Uguiso | Medium spring green, medium shading | ⭐️⭐️ |
 
 ## Sailor Yurameku
 
@@ -49,16 +49,16 @@ tags: [fountain pens]
 
 | Name | Comments | Rating |
 | --- | --- | --- |
-| Rainy day | Light blue, high shading, dry flow | ⭐️⭐️⭐️ |
+| Rainy day | Light blue, high shading, dry flow | ⭐️ |
 
 ## Diamine
 
 | Name | Comments | Rating |
 | --- | --- | --- |
-| Writers Blood | Deep bordeaux red, wet flow | ⭐️ |
+| Writers Blood | Deep bordeaux red, wet flow | ⭐️⭐️ |
 | Ancient Copper | Red brown, medium shading, medium dark brown sheen | ⭐️⭐️ |
 | Burnt Sienna | Unsaturated red brown, medium shading, average flow | ⭐️ |
-| Oxblood | – | – |
+| Oxblood | – | ⭐️ |
 | Earl Grey | – | – |
 | Lady Gray | – | – |
 
@@ -91,10 +91,10 @@ tags: [fountain pens]
 
 | Name | Comments | Rating |
 | --- | --- | --- |
-| Summer Purple | – | – |
-| Midnight Blue | – | – |
-| Ruby Red | – | – |
-| Pearl Black | – | – |
+| Summer Purple | – | ⭐️⭐️ |
+| Midnight Blue | – | ⭐️ |
+| Ruby Red | – | ⭐️ |
+| Pearl Black | – | ⭐️ |
 
 ## Kakimori
 
@@ -107,4 +107,4 @@ tags: [fountain pens]
 
 | Name | Comments | Rating |
 | --- | --- | --- |
-| Carbon Black | Neutral black, wet flow, pigmented | ⭐️ |
+| Carbon Black | Neutral black, wet flow, pigmented | ⭐️⭐️⭐️ |
