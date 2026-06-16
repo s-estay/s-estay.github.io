@@ -10,10 +10,10 @@ tags: [fountain pens]
 
 | Date adquired | Brand | Model | Edition | Nib Size | Rating | 
 | --- | --- | --- | --- | --- | --- | 
-| 2026.06.08 | Pilot | Kakuno | Grey | `<M>` steel nib | - | 
+| 2026.06.08 | Pilot | Kaküno | Grey | `<M>` steel nib | - | 
 | 2026.05.25 | Sailor | 1911 Realo | Black rhodium trim | `<M>`  21k gold nib | ⭐️ |
-| 2026.05.17 | Sailor Pro Gear | Limited Edition 2025 Ceremonial Matcha | `<MF>` 21k gold nib | ⭐️ |
-| 2026.05.16 | Sailor Pro Gear | Black rhodium trim | `<F>` 21k dualtone gold nib | ⭐️⭐️⭐️ |
+| 2026.05.17 | Sailor | Pro Gear | Limited Edition 2025 Ceremonial Matcha | `<MF>` 21k gold nib | ⭐️ |
+| 2026.05.16 | Sailor | Pro Gear | Black rhodium trim | `<F>` 21k dualtone gold nib | ⭐️⭐️⭐️ |
 | 2026.05.14 | Leonardo | Momento Zero Grande 2.0 | Dark rhodium trim |  `<EF>` #6 steel nib | ⭐️ |
 | 2026.03.19 | Pilot | Capless | Limited Edition 2022 Red Coral | `<B>` 18k golb nib | ⭐️⭐️ |
 | 2026.03.06 | Lamy | 2000 | Limited Edition 2021 Makrolon Brown | `<F>` 14k gold nib | ⭐️ |
@@ -21,7 +21,7 @@ tags: [fountain pens]
 | 2026.01.16 | Lamy | 2000 | Stainless Steel | `<OB>` 14k gold nib | - |
 | 2026.01.16 | Kaweco | Frosted Sport | Sweet Banana | `<B>` premium 060 steel nib | ⭐️⭐️⭐️ |
 | 2026.01.11 | Lamy | 2000 | Limited Edition 2024 Makrolon Pine Green | `<F>` 14k gold nib | ⭐️⭐️⭐️ |
-| 2025.12.28 | Leonardo | Momento Zero Grande 2.0 Crepuscolo Marino | `<F>` #6 steel nib | ⭐️ |
+| 2025.12.28 | Leonardo | Momento Zero Grande 2.0 | Crepuscolo Marino | `<F>` #6 steel nib | ⭐️ |
 | 2025.12.18 | Lamy | 2000 | Makrolon Black | `<OM>` 14k gold nib | ⭐️⭐️ |
 | 2025.11.17 | Pilot | Capless | Decimo Purple | `<M>` 18k golb nib | ⭐️⭐️⭐️ |
 | 2025.10.27 | Kaweco | Frosted Sport | Natural Coconut | `<F>` premium 060 steel nib | ⭐️ |
