@@ -30,15 +30,16 @@ tags: [fountain pens]
 | 2025.04.24 | Pelikan | Souverän M800 | Black | `<EF>` 18k dualtone golb nib | ⭐️ |
 | 2025.03.16 | Pilot | Capless | Limited Edition 2024 Seashore | `<M>` 18k golb nib | ⭐️⭐️⭐️ |
 
-## Pens that I've let go (10)
+## Pens that I've let go (9)
 
-- Platinum #3776 Century Bourgogne rhodium trim `<B>` 14k gold nib (2025.09.10)
-- Pelikan Souverän M800 Black-Red `<F>` 18k dualtone golb nib (2025.09.02)
-- Leonardo Momento Zero Grande 2.0 Sottobosco `<1.5 mm stub>` steel nib (2025.11.28)
-- Kaweco Special Brass `<EF>` steel nib (2025.12.14)
-- Platinum #3776 Century Bourgogne rhodium trim `<C>` 14k gold nib (2025.09.23 - 2025.11.24)
-- Platinum #3776 Century Laurel Green `<F>` 14k gold nib (2025.07.11 - 2025.08.28)
-- Pilot Custom 743 `<SM>` 14k gold nib (2025.05.12 - 2025.10.13)
-- Pilot Custom 743 `<FA>` 14k gold nib (2025.05.12 - 2025.07.03)
-- Pilot Capless Limited Edition 2022 Red Coral `<M>` 18k golb nib (2025.04.03 - 2025.04.08)
-- Lamy 2000 Black `<F>` 14k gold nib (2025.02.01 - 2025.03.17)
+| Date adquired/sold | Brand | Model | Edition | Nib Size | 
+| --- | --- | --- | --- | --- | 
+| 2025.09.02 2026.03.03 | Pelikan | Souverän M800 | Red Stripe | `<F>` 18k dualtone golb nib |
+| 2025.11.28 2026.03.02 | Leonardo | Momento Zero Grande 2.0 | Sottobosco | `<1.5 mm stub>` steel nib |
+| 2025.12.14 2026.03.08 | Kaweco | Special Brass | `<EF>` steel nib |
+| 2025.09.23 2025.11.24 | Platinum | #3776 Century | Bourgogne rhodium trim | `<C>` 14k gold nib |
+| 2025.07.11 2025.08.28 | Platinum | #3776 Century | Laurel Green gold trim | `<F>` 14k gold nib |
+| 2025.05.12 2025.10.13 | Pilot | Custom 743 | - | `<SM>` 14k gold nib |
+| 2025.05.12 2025.07.03 | Pilot | Custom 743 | - | `<FA>` 14k gold nib |
+| 2025.04.03 2025.04.08 | Pilot | Capless | Limited Edition 2022 Red Coral | `<M>` 18k golb nib |
+| 2025.02.01 2025.03.17 | Lamy | 2000 | Black | `<F>` 14k gold nib | 
