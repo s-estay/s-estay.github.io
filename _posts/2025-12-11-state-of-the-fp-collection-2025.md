@@ -6,13 +6,12 @@ short_title: Fountain pen collection
 tags: [fountain pens]
 ---
 
-## Current lineup (19)
+## Current lineup (18)
 
 | Date adquired | Brand | Model | Edition | Nib Size | Rating | 
 | --- | --- | --- | --- | --- | --- | 
 | 2026.06.08 | Pilot | Kaküno | Grey | `<M>` steel nib | - | 
-| 2026.05.25 | Sailor | 1911 Realo | Black rhodium trim | 21k `<M>` gold nib | ⭐️ |
-| 2026.05.17 | Sailor | Pro Gear | Limited Edition 2025 Ceremonial Matcha | 21k `<MF>` gold nib | ⭐️ |
+| 2026.05.17 | Sailor | Pro Gear | Limited Edition 2025 Ceremonial Matcha | 21k `<M>` gold nib | ⭐️ |
 | 2026.05.16 | Sailor | Pro Gear | Black rhodium trim | 21k dualtone `<F>` gold nib | ⭐️⭐️⭐️ |
 | 2026.05.14 | Leonardo | Momento Zero Grande 2.0 | Dark rhodium trim | #6 `<EF>` steel nib | ⭐️ |
 | 2026.03.19 | Pilot | Capless | Limited Edition 2022 Red Coral | 18k `<B>` gold nib | ⭐️⭐️ |
@@ -30,10 +29,11 @@ tags: [fountain pens]
 | 2025.04.24 | Pelikan | Souverän M800 | Black | 18k dualtone `<EF>` gold nib | ⭐️ |
 | 2025.03.16 | Pilot | Capless | Limited Edition 2024 Seashore | 18k `<M>` gold nib | ⭐️⭐️⭐️ |
 
-## Pens that I've let go (9)
+## Pens that I've let go (10)
 
 | Date adquired/sold | Brand | Model | Edition | Nib Size | 
 | --- | --- | --- | --- | --- | 
+| 2026.05.25 2026.06.24 | Sailor | 1911 Realo | Black rhodium trim | 21k `<M>` gold nib |
 | 2025.09.02 2026.03.03 | Pelikan | Souverän M800 | Red Stripe |  18k dualtone `<F>` gold nib |
 | 2025.11.28 2026.03.02 | Leonardo | Momento Zero Grande 2.0 | Sottobosco | #6 `<1.5 mm stub>` steel nib |
 | 2025.12.14 2026.03.08 | Kaweco | Special | Brass | `<EF>` steel nib |
