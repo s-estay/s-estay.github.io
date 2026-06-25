@@ -15,13 +15,13 @@ tags: [fountain pens]
 | Momiji | Bright red-orange, low gold sheen | ⭐️⭐️⭐️ |
 | Yama-guri | Medium brown, purple undertone, medium shading, wet flow | ⭐️⭐️ |
 | Syun-gyo | Brown-burgundy | ⭐️⭐️ |
-| Fuyu-syogun | Cool stormy gray-blue, medium shading, wet flow | ⭐️ |
+| Fuyu-syogun | Cool stormy gray-blue, medium shading, wet flow | ❌ |
 | Yu-yake | Sunset orange, medium shading | ⭐️ |
 | Chiku-rin | Fresh yellow-green, medium shading, dry flow | ⭐️ |
 | Murasakai-shikibu | Medium purple, medium shading, wet flow | ⭐️⭐️ |
 | Yama-budo | Purple, medium green sheen, medium shading, wet flow | ⭐️⭐️⭐️ |
 | Kon-peki | Cerulean bright blue, low pink sheen, wet flow | ⭐️⭐️ |
-| Shin-ryoku | Medium green, medium shading, medium red sheen | ⭐️ |
+| Shin-ryoku | Medium green, medium shading, medium red sheen | ❌ |
 | Syo-ro | Dark teal, medium shading, wet flow | ⭐️⭐️ |
 | Rikka | Medium blue, green undertone, medium shading | ⭐️ |
 
@@ -30,10 +30,12 @@ tags: [fountain pens]
 | Name | Comments | Rating |
 | --- | --- | --- |
 | Yodaki | Medium red, high gold sheen | ⭐️⭐️⭐️ |
+| Okuyama | Dark magenta, brigth green sheen | ⭐️⭐️⭐️ |
 | Doyou | Dark brown, black sheen, wet flow | ⭐️ |
 | Yamadori | Teal, high burgundy sheen | ⭐️⭐️ |
-| Yonaga | Midnight blue, medium shading, medium purple and green sheen, wet flow | ⭐️ |
+| Yonaga | Midnight blue, medium shading, medium purple and green sheen, wet flow | ❌ |
 | Shimoyo | Dark dusty blue-black, medium shading | ⭐️ |
+| Miruai | Green-black | ⭐️⭐️ |
 | Rikyucha | Dark olive green, brown undertone, medium shading, wet flow | ⭐️⭐️⭐️ |
 | Tokiwa-Matsu | Medium olive green, medium red sheen, wet flow | ⭐️⭐️⭐️ |
 | Waka-Uguiso | Medium spring green, medium shading | ⭐️⭐️ |
@@ -60,7 +62,7 @@ tags: [fountain pens]
 | Burnt Sienna | Unsaturated red brown, medium shading, average flow | ⭐️ |
 | Oxblood | – | ⭐️ |
 | Earl Grey | – | – |
-| Lady Gray | – | – |
+| Lady Gray | – | ❌ |
 
 ## Leonardo
 
@@ -91,7 +93,7 @@ tags: [fountain pens]
 
 | Name | Comments | Rating |
 | --- | --- | --- |
-| Summer Purple | – | ⭐️⭐️ |
+| Summer Purple | – | ⭐️⭐️⭐️ |
 | Midnight Blue | – | ⭐️ |
 | Ruby Red | – | ⭐️ |
 | Pearl Black | – | ⭐️ |
