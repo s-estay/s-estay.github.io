@@ -11,7 +11,7 @@ tags: [fountain pens]
 | Date adquired | Brand | Model | Edition | Nib Size | Rating | 
 | --- | --- | --- | --- | --- | --- | 
 | 2026.06.08 | Pilot | Kaküno | Grey | `<M>` steel nib | - | 
-| 2026.05.17 | Sailor | Pro Gear | Limited Edition 2025 Ceremonial Matcha | 21k `<M>` gold nib | ⭐️ |
+| 2026.05.17 | Sailor | Pro Gear | Limited Edition 2025 Ceremonial Matcha | 21k `<MF>` gold nib | ⭐️ |
 | 2026.05.16 | Sailor | Pro Gear | Black rhodium trim | 21k dualtone `<F>` gold nib | ⭐️⭐️⭐️ |
 | 2026.05.14 | Leonardo | Momento Zero Grande 2.0 | Dark rhodium trim | #6 `<EF>` steel nib | ⭐️ |
 | 2026.03.19 | Pilot | Capless | Limited Edition 2022 Red Coral | 18k `<B>` gold nib | ⭐️⭐️ |
