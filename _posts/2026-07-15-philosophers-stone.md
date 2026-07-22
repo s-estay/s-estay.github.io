@@ -1,7 +1,7 @@
 ---
 layout: blog-entry
-title: Harry Potter and The Philopher’s Stone by J.K. Rowling (1997)
-short_title: Philopher’s Stone by J.K. Rowling (1997)
+title: Harry Potter and The Philosopher’s Stone by J.K. Rowling (1997)
+short_title: Philosopher’s Stone by J.K. Rowling (1997)
 tags: [books]
 ---
 
