@@ -1,6 +1,7 @@
 ---
 layout: blog-entry
 title: The City and Its Uncertain Walls by Haruki Murakami (2023)
+short_title: Uncertain Walls by Haruki Murakami (2023)
 tags: [books]
 ---
 
