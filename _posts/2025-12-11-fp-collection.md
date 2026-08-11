@@ -17,7 +17,7 @@ tags: [fountain pens]
 | 2026.03.19 | Pilot | Capless | Limited Edition 2022 Red Coral | 18k `<B>` gold nib | ⭐️⭐️ |
 | 2026.03.06 | Lamy | 2000 | Limited Edition 2021 Makrolon Brown | 14k `<F>` gold nib | ⭐️⭐️⭐️ |
 | 2026.02.02 | Lamy | 2000 | Makrolon Black | 14k `<EF>` gold nib | ⭐️⭐️⭐️ |
-| 2026.01.16 | Lamy | 2000 | Stainless Steel | Vintage 18k `<OBB>` gold nib | ⭐️⭐️ |
+| 2026.01.16 | Lamy | 2000 | Stainless Steel | 14k `<OBB>` gold nib | ⭐️⭐️ |
 | 2026.01.16 | Kaweco | Frosted Sport | Sweet Banana | Premium 060 `<B>` steel nib | ⭐️⭐️⭐️ |
 | 2026.01.11 | Lamy | 2000 | Limited Edition 2024 Makrolon Pine Green | 14k `<M>` gold nib | ⭐️⭐️⭐️ |
 | 2025.12.28 | Leonardo | Momento Zero Grande 2.0 | Crepuscolo Marino |  #6 `<EF>` steel nib | ⭐️⭐️⭐️ |
