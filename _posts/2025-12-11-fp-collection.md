@@ -6,10 +6,11 @@ short_title: Fountain pen collection
 tags: [fountain pens]
 ---
 
-## Current lineup (18)
+## Current lineup (19)
 
 | Date adquired | Brand | Model | Edition | Nib Size | Rating | 
 | --- | --- | --- | --- | --- | --- | 
+| 2026.08.28 | Sailor | Pro Gear | Black gold trim | 21k dualtone `<B>` gold nib | ⭐️ |
 | 2026.06.08 | Pilot | Kaküno | Grey | `<M>` steel nib | ⭐️ | 
 | 2026.05.17 | Sailor | Pro Gear | Limited Edition 2025 Ceremonial Matcha | 21k `<MF>` gold nib | ⭐️⭐️⭐️ |
 | 2026.05.16 | Sailor | Pro Gear | Black rhodium trim | 21k dualtone `<F>` gold nib | ⭐️⭐️⭐️ |
