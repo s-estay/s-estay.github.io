@@ -18,11 +18,11 @@ tags: [fountain pens]
 | Fuyu-syogun | Cool stormy gray-blue, medium shading, wet flow | ❌ |
 | Yu-yake | Sunset orange, medium shading | ⭐️ |
 | Chiku-rin | Fresh yellow-green, medium shading, dry flow | ⭐️ |
-| Murasakai-shikibu | Medium purple, medium shading, wet flow | ⭐️⭐️ |
+| Murasakai-shikibu | Medium purple, medium shading, wet flow | ❌ |
 | Yama-budo | Purple, medium green sheen, medium shading, wet flow | ⭐️⭐️⭐️ |
 | Kon-peki | Cerulean bright blue, low pink sheen, wet flow | ⭐️⭐️ |
 | Shin-ryoku | Medium green, medium shading, medium red sheen | ❌ |
-| Syo-ro | Dark teal, medium shading, wet flow | ⭐️⭐️ |
+| Syo-ro | Dark teal, medium shading, wet flow | ⭐️⭐️⭐️ |
 | Rikka | Medium blue, green undertone, medium shading | ⭐️ |
 
 ## Sailor Shikiori
@@ -35,7 +35,6 @@ tags: [fountain pens]
 | Yamadori | Teal, high burgundy sheen | ⭐️⭐️ |
 | Yonaga | Midnight blue, medium shading, medium purple and green sheen, wet flow | ❌ |
 | Shimoyo | Dark dusty blue-black, medium shading | ⭐️ |
-| Miruai | Green-black | ⭐️⭐️ |
 | Rikyucha | Dark olive green, brown undertone, medium shading, wet flow | ⭐️⭐️⭐️ |
 | Tokiwa-Matsu | Medium olive green, medium red sheen, wet flow | ⭐️⭐️⭐️ |
 | Waka-Uguiso | Medium spring green, medium shading | ⭐️⭐️ |
@@ -44,8 +43,8 @@ tags: [fountain pens]
 
 | Name | Comments | Rating |
 | --- | --- | --- |
-| Seki | Chromashading | ⭐️ |
-| Kyokkou | Chromashading | ⭐️ |
+| Seki | Chromashading | ❌ |
+| Kyokkou | Chromashading | ❌ |
 
 ## Sailor x Ancora
 
@@ -59,10 +58,9 @@ tags: [fountain pens]
 | --- | --- | --- |
 | Writers Blood | Deep bordeaux red, wet flow | ⭐️⭐️ |
 | Ancient Copper | Red brown, medium shading, medium dark brown sheen | ⭐️⭐️ |
-| Burnt Sienna | Unsaturated red brown, medium shading, average flow | ⭐️ |
+| Burnt Sienna | Unsaturated red brown, medium shading, average flow | ❌ |
 | Oxblood | – | ⭐️ |
-| Earl Grey | – | – |
-| Lady Gray | – | ❌ |
+| Earl Grey | – | ❌ |
 
 ## Leonardo
 
@@ -76,8 +74,8 @@ tags: [fountain pens]
 
 | Name | Comments | Rating |
 | --- | --- | --- |
-| Lie de Thé | – | – |
-| Cacao du Brésil | – | – |
+| Lie de Thé | – | ❌ |
+| Cacao du Brésil | – | ❌ |
 | Ambre de Birmanie | – | – |
 | Perle Noire | – | – |
 | Poussière de Lune | – | – |
@@ -86,8 +84,8 @@ tags: [fountain pens]
 
 | Name | Comments | Rating |
 | --- | --- | --- |
-| Blue-black | Iron gall | – |
-| Royal blue | – | – |
+| Blue-black | Iron gall | ❌ |
+| Royal blue | – | ❌ |
 
 ## Kaweco
 
