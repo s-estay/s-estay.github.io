@@ -15,29 +15,28 @@ tags: [fountain pens]
 | Momiji | Bright red-orange, low gold sheen | ⭐️⭐️⭐️ |
 | Yama-guri | Medium brown, purple undertone, medium shading, wet flow | ⭐️⭐️ |
 | Syun-gyo | Brown-burgundy | ⭐️⭐️ |
-| Fuyu-syogun | Cool stormy gray-blue, medium shading, wet flow | ❌ |
+| Syo-ro | Dark teal, medium shading, wet flow | ⭐️⭐️⭐️ |
+| Fuyu-syogun | Cool stormy gray-blue, medium shading, wet flow | ⭐️ |
 | Yu-yake | Sunset orange, medium shading | ⭐️ |
 | Chiku-rin | Fresh yellow-green, medium shading, dry flow | ⭐️ |
 | Murasakai-shikibu | Medium purple, medium shading, wet flow | ❌ |
 | Yama-budo | Purple, medium green sheen, medium shading, wet flow | ⭐️⭐️⭐️ |
 | Kon-peki | Cerulean bright blue, low pink sheen, wet flow | ⭐️⭐️ |
 | Shin-ryoku | Medium green, medium shading, medium red sheen | ❌ |
-| Syo-ro | Dark teal, medium shading, wet flow | ⭐️⭐️⭐️ |
 | Rikka | Medium blue, green undertone, medium shading | ⭐️ |
 
 ## Sailor Shikiori
 
 | Name | Comments | Rating |
 | --- | --- | --- |
-| Yodaki | Medium red, high gold sheen | ⭐️⭐️⭐️ |
-| Okuyama | Dark magenta, brigth green sheen | ⭐️⭐️⭐️ |
 | Doyou | Dark brown, black sheen, wet flow | ⭐️ |
 | Yamadori | Teal, high burgundy sheen | ⭐️⭐️ |
-| Yonaga | Midnight blue, medium shading, medium purple and green sheen, wet flow | ❌ |
 | Shimoyo | Dark dusty blue-black, medium shading | ⭐️ |
+| Yodaki | Medium red, high gold sheen | ⭐️⭐️⭐️ |
+| Okuyama | Dark magenta, bright green sheen | ⭐️⭐️⭐️ |
 | Rikyucha | Dark olive green, brown undertone, medium shading, wet flow | ⭐️⭐️⭐️ |
 | Tokiwa-Matsu | Medium olive green, medium red sheen, wet flow | ⭐️⭐️⭐️ |
-| Waka-Uguiso | Medium spring green, medium shading | ⭐️⭐️ |
+| Waka-Uguiso | Medium spring green, medium shading | ⭐️⭐️⭐️ |
 
 ## Sailor Yurameku
 
@@ -58,9 +57,15 @@ tags: [fountain pens]
 | --- | --- | --- |
 | Writers Blood | Deep bordeaux red, wet flow | ⭐️⭐️ |
 | Ancient Copper | Red brown, medium shading, medium dark brown sheen | ⭐️⭐️ |
-| Burnt Sienna | Unsaturated red brown, medium shading, average flow | ❌ |
 | Oxblood | – | ⭐️ |
 | Earl Grey | – | ❌ |
+
+## Kakimori
+
+| Name | Comments | Rating |
+| --- | --- | --- |
+| 06 Toppuri | Deep blue-black, medium shading, slow to dry, pigmented | ⭐️ |
+| 09 Mukuri | Brown, pigmented | ⭐️ |
 
 ## Leonardo
 
@@ -74,11 +79,9 @@ tags: [fountain pens]
 
 | Name | Comments | Rating |
 | --- | --- | --- |
-| Lie de Thé | – | ❌ |
-| Cacao du Brésil | – | ❌ |
-| Ambre de Birmanie | – | – |
-| Perle Noire | – | – |
-| Poussière de Lune | – | – |
+| Perle Noire | 09 | ⭐️ |
+| Ambre de Birmanie | 41 | ⭐️ |
+| Poussière de Lune | 48 | ⭐️ |
 
 ## Pelikan 4001
 
@@ -95,13 +98,6 @@ tags: [fountain pens]
 | Midnight Blue | – | ⭐️ |
 | Ruby Red | – | ⭐️ |
 | Pearl Black | – | ⭐️ |
-
-## Kakimori
-
-| Name | Comments | Rating |
-| --- | --- | --- |
-| 06 Toppuri | Deep blue-black, medium shading, slow to dry, pigmented | ⭐️ |
-| 09 Mukuri | Brown, pigmented | ⭐️ |
 
 ## Platinum
 
