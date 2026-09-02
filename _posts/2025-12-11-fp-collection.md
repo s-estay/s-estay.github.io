@@ -6,7 +6,7 @@ short_title: Fountain pen collection
 tags: [fountain pens]
 ---
 
-## Current line-up (20)
+## Current line-up (19)
 
 | Date acquired | Brand | Model | Edition | Nib Size | Rating | 
 | --- | --- | --- | --- | --- | --- | 
@@ -24,17 +24,17 @@ tags: [fountain pens]
 | 2026.01.11 | Lamy | 2000 | Limited Edition 2024 Pine Green | 14k `<F>` gold nib | ⭐️⭐️⭐️ |
 | 2025.12.28 | Leonardo | Momento Zero Grande 2.0 | Crepuscolo Marino |  #6 `<M>` steel nib | ⭐️⭐️⭐️ |
 | 2025.12.18 | Lamy | 2000 | Black | 14k `<M>` gold nib | ⭐️⭐️⭐️ |
-| 2025.11.17 | Pilot | Capless | Decimo Purple | 18k `<B5>` gold nib | ⭐️ |
+| 2025.11.17 | Pilot | Capless | Decimo Purple | 18k `<B>` gold nib | ⭐️ |
 | 2025.10.27 | Kaweco | Frosted Sport | Natural Coconut | Premium 060 `<F>` steel nib | ⭐️ |
 | 2025.09.10 | Platinum | #3776 Century | Bourgogne RT | 14k `<B>` gold nib | ⭐️ |
 | 2025.08.24 | Platinum | #3776 Century | Black Diamond | 14k `<M>` gold nib | ⭐️⭐️ |
-| 2025.04.24 | Pelikan | Souverän M800 | Black | 18k two-tone `<EF>` gold nib | ⭐️ |
 | 2025.03.16 | Pilot | Capless | Limited Edition 2024 Seashore | 18k `<M>` gold nib | ⭐️⭐️ |
 
-## Pens that I've let go (11)
+## Pens that I've let go (12)
 
 | Date acquired/sold | Brand | Model | Edition | Nib Size | 
 | --- | --- | --- | --- | --- | 
+| 2025.04.24 2026.09.01 | Pelikan | Souverän M800 | Black | 18k two-tone `<EF>` gold nib |
 | 2025.06.09 2026.08.31 | Namiki | Capless | Raden Water Surface | 18k `<F>` gold nib |
 | 2026.05.25 2026.06.24 | Sailor | 1911 Realo | Black RT | 21k `<M>` gold nib |
 | 2025.09.02 2026.03.03 | Pelikan | Souverän M800 | Red Stripe |  18k two-tone `<F>` gold nib |
