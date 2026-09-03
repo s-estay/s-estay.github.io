@@ -9,19 +9,19 @@ tags: [fountain pens]
 
 | Name | Comments | Rating |
 | --- | --- | --- |
-| Take-sumi | Charcoal black, medium black sheen, wet flow | ⭐️⭐️⭐️ |
-| Shin-kai | Stormy medium blue-black, medium shading, wet flow | ⭐️⭐️⭐️ |
-| Tsuki-yo | Dark blue, green undertone, red sheen, medium shading, wet flow | ⭐️⭐️⭐️ |
+| Take-Sumi | Charcoal black, medium black sheen, wet flow | ⭐️⭐️⭐️ |
+| Shin-Kai | Stormy medium blue-black, medium shading, wet flow | ⭐️⭐️⭐️ |
+| Tsuki-Yo | Dark blue, green undertone, red sheen, medium shading, wet flow | ⭐️⭐️⭐️ |
 | Momiji | Bright red-orange, low gold sheen | ⭐️⭐️⭐️ |
-| Yama-guri | Medium brown, purple undertone, medium shading, wet flow | ⭐️⭐️ |
-| Syun-gyo | Brown-burgundy | ⭐️⭐️ |
-| Syo-ro | Dark teal, medium shading, wet flow | ⭐️⭐️⭐️ |
-| Fuyu-syogun | Cool stormy gray-blue, medium shading, wet flow | ⭐️ |
-| Yu-yake | Sunset orange, medium shading | ⭐️ |
-| Chiku-rin | Fresh yellow-green, medium shading, dry flow | ⭐️ |
-| Yama-budo | Purple, medium green sheen, medium shading, wet flow | ⭐️⭐️⭐️ |
-| Kon-peki | Cerulean bright blue, low pink sheen, wet flow | ⭐️⭐️ |
-| Shin-ryoku | Medium green, medium shading, medium red sheen | ❌ |
+| Yama-Guri | Medium brown, purple undertone, medium shading, wet flow | ⭐️⭐️ |
+| Syun-Gyo | Brown-burgundy | ⭐️⭐️ |
+| Syo-Ro | Dark teal, medium shading, wet flow | ⭐️⭐️⭐️ |
+| Fuyu-Syogun | Cool stormy gray-blue, medium shading, wet flow | ⭐️ |
+| Yu-Yake | Sunset orange, medium shading | ⭐️ |
+| Chiku-Rin | Fresh yellow-green, medium shading, dry flow | ⭐️ |
+| Yama-Budo | Purple, medium green sheen, medium shading, wet flow | ⭐️⭐️⭐️ |
+| Kon-Peki | Cerulean bright blue, low pink sheen, wet flow | ⭐️⭐️ |
+| Shin-Ryoku | Medium green, medium shading, medium red sheen | ❌ |
 | Rikka | Medium blue, green undertone, medium shading | ⭐️ |
 
 ## Sailor Shikiori
@@ -48,7 +48,7 @@ tags: [fountain pens]
 
 | Name | Comments | Rating |
 | --- | --- | --- |
-| Rainy day | Light blue, high shading, dry flow | ⭐️ |
+| Rainy Day | Light blue, high shading, dry flow | ⭐️ |
 
 ## Diamine
 
@@ -86,7 +86,7 @@ tags: [fountain pens]
 | Name | Comments | Rating |
 | --- | --- | --- |
 | Blue-black | Iron gall | ❌ |
-| Royal blue | – | ❌ |
+| Royal Blue | – | ❌ |
 
 ## Kaweco
 
