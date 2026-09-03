@@ -19,7 +19,6 @@ tags: [fountain pens]
 | Fuyu-syogun | Cool stormy gray-blue, medium shading, wet flow | ⭐️ |
 | Yu-yake | Sunset orange, medium shading | ⭐️ |
 | Chiku-rin | Fresh yellow-green, medium shading, dry flow | ⭐️ |
-| Murasakai-shikibu | Medium purple, medium shading, wet flow | ❌ |
 | Yama-budo | Purple, medium green sheen, medium shading, wet flow | ⭐️⭐️⭐️ |
 | Kon-peki | Cerulean bright blue, low pink sheen, wet flow | ⭐️⭐️ |
 | Shin-ryoku | Medium green, medium shading, medium red sheen | ❌ |
@@ -71,9 +70,8 @@ tags: [fountain pens]
 
 | Name | Comments | Rating |
 | --- | --- | --- |
-| Nero Intenso | Black, silver sheen, wet flow | ⭐️ |
-| Boreale shimmer | – | ⭐️ |
-| Purple Diamond shimmer | – | ⭐️⭐️ |
+| Boreale | Shimmer | ⭐️ |
+| Purple Diamond | Shimmer | ⭐️⭐️ |
 
 ## J. Herbin
 
