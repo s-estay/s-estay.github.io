@@ -3,7 +3,17 @@ layout: base
 ---
 <div class = "main-container">
   <h1>{{ page.tag | downcase }} ({% assign posts_with_tag = site.posts | where_exp: "post", "post.tags contains page.tag" %}{{ posts_with_tag | size }})</h1>
-  {% for post in posts_with_tag %}
+  {% assign posts_with_tag = site.posts | where_exp: "post", "post.tags contains page.tag" %}
+  {% assign pinned_posts = posts_with_tag | where: "pinned", true %}
+  {% assign unpinned_posts = posts_with_tag | where: "pinned", false %}
+  {% for post in pinned_posts %}
+    <div class = "blog-list-entry">
+      <time>{{ post.date | date: "%Y-%m-%d" }}</time>
+      •
+      <a href = "{{ post.url }}">{{ post.short_title | default: post.title }}</a>
+    </div>
+  {% endfor %}
+  {% for post in unpinned_posts %}
     <div class = "blog-list-entry">
       <time>{{ post.date | date: "%Y-%m-%d" }}</time>
       •
