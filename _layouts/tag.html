@@ -5,7 +5,7 @@ layout: base
   <h1>{{ page.tag | downcase }} ({% assign posts_with_tag = site.posts | where_exp: "post", "post.tags contains page.tag" %}{{ posts_with_tag | size }})</h1>
   {% assign posts_with_tag = site.posts | where_exp: "post", "post.tags contains page.tag" %}
   {% assign pinned_posts = posts_with_tag | where: "pinned", true %}
-  {% assign unpinned_posts = posts_with_tag | where: "pinned", false %}
+  {% assign unpinned_posts = posts_with_tag | where_exp: "post", "post.pinned != true" %}
   {% for post in pinned_posts %}
     <div class = "blog-list-entry">
       <time>{{ post.date | date: "%Y-%m-%d" }}</time>
