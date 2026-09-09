@@ -8,7 +8,7 @@ tags: [fountain pens]
 
 ## Current line-up (18)
 
-| Date | Pen Details | Rating | 
+| Date | Brand/Model/Edition<br>Nib | Rating | 
 | --- | --- | --- | 
 | 2026.08.28 | Sailor Pro Gear Black GT<br>21k two-tone `<B>` gold nib | ⭐️⭐️⭐️ |
 | 2026.06.08 | Pilot Kaküno Grey<br>`<M>` steel nib | ⭐️ | 
