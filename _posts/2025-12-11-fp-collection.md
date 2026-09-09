@@ -8,11 +8,11 @@ tags: [fountain pens]
 
 ## Current line-up (18)
 
-| Date acquired | Brand/Model/Edition | Nib | Rating | 
+| Date | Brand/Model/Edition | Nib | Rating | 
 | --- | --- | --- | --- | 
-| 2026.08.28 | Sailor Pro Gear Black GT | 21k two-tone `<B>` gold nib |  |
+| 2026.08.28 | Sailor Pro Gear Black GT | 21k two-tone `<B>` gold nib | ⭐️⭐️⭐️ |
 | 2026.06.08 | Pilot Kaküno Grey | `<M>` steel nib | ⭐️ | 
-| 2026.05.17 | Sailor Pro Gear Limited Edition 2025 Ceremonial Matcha | 21k `<MF>` gold nib | ⭐️⭐️⭐️ |
+| 2026.05.17 | Sailor Pro Gear Limited Edition 2025 Ceremonial Matcha | 21k `<MF>` gold nib | ⭐️⭐️ |
 | 2026.05.16 | Sailor Pro Gear Black RT | 21k two-tone `<F>` gold nib | ⭐️⭐️⭐️ |
 | 2026.05.14 | Leonardo Momento Zero Grande 2.0 Dark RT | #6 `<EF>` steel nib | ⭐️⭐️ |
 | 2026.03.19 | Pilot Capless Limited Edition 2022 Red Coral | 18k `<M>` gold nib | ⭐️⭐️ |
@@ -31,7 +31,7 @@ tags: [fountain pens]
 
 ## Pens that I've let go (13)
 
-| Date sold/acquired | Brand/Model/Edition | Nib | 
+| Date | Brand/Model/Edition | Nib | 
 | --- | --- | --- |
 | 2026.09.03 2025.11.17 | Pilot Capless Decimo Purple | 18k `<B>` gold nib |
 | 2026.09.01 2025.04.24 | Pelikan Souverän M800 Black GT | 18k two-tone `<EF>` gold nib |
