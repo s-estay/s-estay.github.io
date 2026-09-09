@@ -1,6 +1,7 @@
 // smooth scrolling to top
 
 var scrollToTopBtn = document.getElementById("scroll-to-top-button");
+var tagBackBtn = document.getElementById("tag-back-button");
 var rootElement = document.documentElement;
 
 function scrollToTop() {
@@ -10,15 +11,19 @@ function scrollToTop() {
   });
 }
 
-scrollToTopBtn.addEventListener("click", scrollToTop);
+if (scrollToTopBtn) {
+  scrollToTopBtn.addEventListener("click", scrollToTop);
+}
 
 // hide/show button when inside/outside visible viewport
 
 function handleScrollButton() {
   if (rootElement.clientHeight < rootElement.scrollHeight) {
-    scrollToTopBtn.style.display = "block";
+    if (scrollToTopBtn) scrollToTopBtn.style.display = "block";
+    if (tagBackBtn) tagBackBtn.style.display = "block";
   } else {
-    scrollToTopBtn.style.display = "none";
+    if (scrollToTopBtn) scrollToTopBtn.style.display = "none";
+    if (tagBackBtn) tagBackBtn.style.display = "none";
   }
 }
 
