@@ -19,9 +19,8 @@ tags: [fountain pens]
 | Fuyu-Syogun | Cool stormy gray-blue, medium shading, wet flow | ⭐️ |
 | Yu-Yake | Sunset orange, medium shading | ⭐️ |
 | Chiku-Rin | Fresh yellow-green, medium shading, dry flow | ⭐️ |
-| Yama-Budo | Purple, medium green sheen, medium shading, wet flow | ⭐️⭐️⭐️ |
+| Yama-Budo | Purple, medium green sheen, medium shading, wet flow | ⭐️ |
 | Kon-Peki | Cerulean bright blue, low pink sheen, wet flow | ⭐️⭐️ |
-| Shin-Ryoku | Medium green, medium shading, medium red sheen | ❌ |
 | Rikka | Medium blue, green undertone, medium shading | ⭐️⭐️ |
 
 ## Sailor Shikiori
@@ -30,7 +29,7 @@ tags: [fountain pens]
 | --- | --- | --- |
 | Doyou | Dark brown, black sheen, wet flow | ⭐️ |
 | Yamadori | Teal, high burgundy sheen | ⭐️⭐️ |
-| Shimoyo | Dark dusty blue-black, medium shading | ⭐️ |
+| Shimoyo | Dark dusty blue-black, medium shading | ⭐️⭐️ |
 | Chushu | Dark dusty purple, low shading, wet flow | |
 | Yodaki | Medium red, high gold sheen | ⭐️⭐️⭐️ |
 | Okuyama | Dark magenta, bright green sheen | ⭐️⭐️⭐️ |
@@ -85,15 +84,8 @@ tags: [fountain pens]
 | Name | Comments | Rating |
 | --- | --- | --- |
 | Perle Noire | 09 | ⭐️ |
-| Ambre de Birmanie | 41 | ⭐️ |
+| Ambre de Birmanie | 41 | ⭐️⭐️ |
 | Poussière de Lune | 48 | ⭐️ |
-
-## Pelikan 4001
-
-| Name | Comments | Rating |
-| --- | --- | --- |
-| Blue-black | Iron gall | ❌ |
-| Royal Blue | – | ❌ |
 
 ## Kaweco
 
@@ -108,4 +100,11 @@ tags: [fountain pens]
 
 | Name | Comments | Rating |
 | --- | --- | --- |
-| Carbon Black | Neutral black, wet flow, pigmented | ⭐️⭐️⭐️ |
+| Carbon Black | Neutral black, wet flow, pigmented | ⭐️⭐️ |
+
+## Pelikan 4001
+
+| Name | Comments | Rating |
+| --- | --- | --- |
+| Blue-black | Iron gall | ❌ |
+| Royal Blue | – | ❌ |
