@@ -13,6 +13,9 @@ layout: base
       <a href = "{{ post.url }}">{{ post.short_title | default: post.title }}</a>
     </div>
   {% endfor %}
+  {% if pinned_posts.size > 0 and unpinned_posts.size > 0 %}
+    <br>
+  {% endif %}
   {% for post in unpinned_posts %}
     <div class = "blog-list-entry">
       <time>{{ post.date | date: "%Y-%m-%d" }}</time>
