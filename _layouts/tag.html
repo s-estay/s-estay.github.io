@@ -2,8 +2,8 @@
 layout: base
 ---
 <div class = "main-container">
-  <h1>{{ page.tag | downcase }}</h1>
   {% assign posts_with_tag = site.posts | where_exp: "post", "post.tags contains page.tag" %}
+  <h1>{{ page.tag | downcase }} ({{ posts_with_tag | size }})</h1>
   {% for post in posts_with_tag %}
     <div class = "blog-list-entry">
       <time>{{ post.date | date: "%Y-%m-%d" }}</time>
