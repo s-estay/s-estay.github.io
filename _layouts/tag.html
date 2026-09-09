@@ -2,8 +2,7 @@
 layout: base
 ---
 <div class = "main-container">
-  {% assign posts_with_tag = site.posts | where_exp: "post", "post.tags contains page.tag" %}
-  <h1>{{ page.tag | downcase }} ({{ posts_with_tag | size }})</h1>
+  <h1>{{ page.tag | downcase }} ({% assign posts_with_tag = site.posts | where_exp: "post", "post.tags contains page.tag" %}{{ posts_with_tag | size }})</h1>
   {% for post in posts_with_tag %}
     <div class = "blog-list-entry">
       <time>{{ post.date | date: "%Y-%m-%d" }}</time>
@@ -12,6 +11,7 @@ layout: base
     </div>
   {% endfor %}
   <footer>
-    <a href = "{{ "/" | relative_url }}" class = "footer-button" id = "tag-back-button">Back to main</a>
+    <button id = "scroll-to-top-button" class = "footer-button">Back to top</button>
+    <a href = "{{ "/" | relative_url }}" class = "footer-button">Back to main</a>
   </footer>
 </div>
