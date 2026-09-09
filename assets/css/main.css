@@ -82,3 +82,11 @@ ul { padding-left: 2em; }
 .blog-entry-container th {
   text-align: left;
 }
+
+.tag-link {
+  color: var(--dragon-blue);
+}
+
+.tag-link:hover {
+  color: var(--surimi-orange);
+}
