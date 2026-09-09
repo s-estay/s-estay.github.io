@@ -64,7 +64,7 @@ footer { margin-top: 2em; margin-bottom: 2em;}
 }
 
 #tag-back-button {
-  display: none;
+  display: block;
 }
 
 .footer-button:hover { color: var(--wave-red); }
