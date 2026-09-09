@@ -63,6 +63,10 @@ footer { margin-top: 2em; margin-bottom: 2em;}
   display: none;
 }
 
+#tag-back-button {
+  display: none;
+}
+
 .footer-button:hover { color: var(--wave-red); }
 
 a { text-decoration: none; }
