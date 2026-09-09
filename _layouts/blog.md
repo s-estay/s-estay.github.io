@@ -12,7 +12,7 @@ layout: base
       <a href = "{{ post.url }}">{{ post.short_title | default: post.title }}</a>
       (
         {%- for tag in post.tags -%}
-          {{ tag | downcase }} {%- unless forloop.last -%}, {% endunless %}
+          <a href = "{{ site.baseurl }}/tags/{{ tag | downcase | replace: " ", "-" }}/" class = "tag-link">{{ tag | downcase }}</a>{%- unless forloop.last -%}, {% endunless %}
         {%- endfor -%}
       )
     </div>
@@ -27,7 +27,7 @@ layout: base
       <a href = "{{ post.url }}">{{ post.short_title | default: post.title }}</a>
       (
         {%- for tag in post.tags -%}
-          {{ tag | downcase }} {%- unless forloop.last -%}, {% endunless %}
+          <a href = "{{ site.baseurl }}/tags/{{ tag | downcase | replace: " ", "-" }}/" class = "tag-link">{{ tag | downcase }}</a>{%- unless forloop.last -%}, {% endunless %}
         {%- endfor -%}
       )
     </div>
