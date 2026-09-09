@@ -34,8 +34,9 @@ I discovered I only like purples in the headers. Purple is a good shade that giv
 While all my journaling is done in Midori MD notebooks, I like to use Tomoe River sheet paper for my letters. TR is very good at displaying shading, sheening and shimmer, so that is why I like to use all the funky inks here. Besides, my penpals appreciate beautiful inks. The Kaweco Sport can be totally disassemble and cleaned after using shimmer inks on them. A broad nib is best, smooth and wet.
 - Kaweco Frosted Sport Sweet Banana steel B (shimmer inks)
 - Kaweco Frosted Sport Natural Coconut steel B (shimmer inks)
-- Sailor Pro Gear Black GT 21k B (blues and teals) ⭐️
+- Lamy 2000 Black 14k M (blues and teals)
 - Lamy 2000 Brown 14k OM (reds and browns) ⭐️
+- Sailor Pro Gear Black GT 21k B (blues and teals) ⭐️
 
 ## Pigmented inks
 While I want shimmer inks in easy to disassemble pens, I want pigmented inks in easy to flush pens with good cap seal. This is because I like to ink my pens with shimmer inks just enough to do what I want to do, and then clean them. Pens inked with pigmented inks may stay inked for longer periods of time, risking drying up. I don't use pigmented inks too often though. 
