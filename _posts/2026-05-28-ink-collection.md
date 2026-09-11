@@ -37,6 +37,12 @@ tags: [fountain pens]
 | Tokiwa-Matsu | Medium olive green, medium red sheen, wet flow | ⭐️⭐️⭐️ |
 | Waka-Uguiso | Medium spring green, medium shading | ⭐️⭐️⭐️ |
 
+## Sailor x Ancora
+
+| Name | Comments | Rating |
+| --- | --- | --- |
+| Rainy Day | Light blue, high shading, dry flow | ⭐️ |
+
 ## Sailor Nano
 
 | Name | Comments | Rating |
@@ -44,19 +50,13 @@ tags: [fountain pens]
 | Seiboku | Medium blue, medium shading, wet flow, pigmented | |
 | Souboku | Unsaturated blue-black, medium shading, wet flow, pigmented | |
 
-## Sailor x Ancora
-
-| Name | Comments | Rating |
-| --- | --- | --- |
-| Rainy Day | Light blue, high shading, dry flow | ⭐️ |
-
 ## Taccia
 
 | Name | Comments | Rating |
 | --- | --- | --- |
 | Hokusai Sabimidori | Rust green, medium shading, high copper sheen | ⭐️⭐️⭐️ |
 
-## Diamine
+## Diamine 
 
 | Name | Comments | Rating |
 | --- | --- | --- |
@@ -69,8 +69,8 @@ tags: [fountain pens]
 
 | Name | Comments | Rating |
 | --- | --- | --- |
-| 06 Toppuri | Deep blue-black, medium shading, slow to dry, pigmented | ⭐️ |
-| 09 Mukuri | Brown, pigmented | ⭐️ |
+| Toppuri | Deep blue-black, medium shading, slow to dry, pigmented | ⭐️ |
+| Mukuri | Brown, pigmented | ⭐️ |
 
 ## Leonardo
 
@@ -83,9 +83,9 @@ tags: [fountain pens]
 
 | Name | Comments | Rating |
 | --- | --- | --- |
-| Perle Noire | 09 | ⭐️ |
-| Ambre de Birmanie | 41 | ⭐️⭐️ |
-| Poussière de Lune | 48 | ⭐️ |
+| Perle Noire | Black | ⭐️ |
+| Ambre de Birmanie | Golden amber | ⭐️⭐️ |
+| Poussière de Lune | Dusty purple | ⭐️ |
 
 ## Kaweco
 
@@ -101,6 +101,12 @@ tags: [fountain pens]
 | Name | Comments | Rating |
 | --- | --- | --- |
 | Carbon Black | Neutral black, wet flow, pigmented | ⭐️⭐️ |
+
+## Montblanc
+
+| Name | Comments | Rating |
+| --- | --- | --- |
+| Homage to Bram Stoker | Purple, green sheen | |
 
 ## Pelikan 4001
 
