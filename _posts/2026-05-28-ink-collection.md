@@ -112,5 +112,5 @@ tags: [fountain pens]
 
 | Name | Comments | Rating |
 | --- | --- | --- |
-| Blue-black | Iron gall | ❌ |
-| Royal Blue | – | ❌ |
+| Blue-black | Iron gall, dry flow | ⭐️ |
+| Royal Blue | Purple-blue, dry flow | ⭐️ |
