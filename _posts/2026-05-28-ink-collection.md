@@ -15,11 +15,11 @@ tags: [fountain pens]
 | Momiji | Bright red-orange, low gold sheen | ⭐️⭐️⭐️ |
 | Yama-Guri | Medium brown, purple undertone, medium shading, wet flow | ⭐️⭐️ |
 | Syun-Gyo | Brown-burgundy | ⭐️⭐️ |
-| Syo-Ro | Dark teal, medium shading, wet flow | ⭐️⭐️⭐️ |
+| Syo-Ro | Dark teal, medium shading, wet flow | ⭐️⭐️ |
 | Fuyu-Syogun | Cool stormy gray-blue, medium shading, wet flow | ⭐️ |
 | Yu-Yake | Sunset orange, medium shading | ⭐️ |
 | Chiku-Rin | Fresh yellow-green, medium shading, dry flow | ⭐️ |
-| Yama-Budo | Purple, medium green sheen, medium shading, wet flow | ⭐️ |
+| Yama-Budo | Purple, medium green sheen, medium shading, wet flow | ⭐️⭐️ |
 | Kon-Peki | Cerulean bright blue, low pink sheen, wet flow | ⭐️⭐️ |
 | Rikka | Medium blue, green undertone, medium shading | ⭐️⭐️ |
 
@@ -47,8 +47,8 @@ tags: [fountain pens]
 
 | Name | Comments | Rating |
 | --- | --- | --- |
-| Seiboku | Medium blue, medium shading, wet flow, pigmented | |
-| Souboku | Unsaturated blue-black, medium shading, wet flow, pigmented | |
+| Seiboku | Medium blue, medium shading, wet flow, pigmented | ⭐️⭐️ |
+| Souboku | Unsaturated blue-black, medium shading, wet flow, pigmented | ⭐️⭐️ |
 
 ## Taccia
 
