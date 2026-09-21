@@ -10,11 +10,7 @@ layout: base
       <time>{{ post.date | date: "%Y-%m-%d" }}</time>
       •
       <a href = "{{ post.url }}">{{ post.short_title | default: post.title }}</a>
-      (
-        {%- for tag in post.tags -%}
-          <a href = "{{ site.baseurl }}/tags/{{ tag | downcase | replace: " ", "-" }}/" class = "tag-link">{{ tag | downcase }}</a>{%- unless forloop.last -%}, {% endunless %}
-        {%- endfor -%}
-      )
+      ({% include tag-links.html tags = post.tags %})
     </div>
   {% endfor %}
   {% if pinned_posts.size > 0 and regular_posts.size > 0 %}
@@ -25,11 +21,7 @@ layout: base
       <time>{{ post.date | date: "%Y-%m-%d" }}</time>
       •
       <a href = "{{ post.url }}">{{ post.short_title | default: post.title }}</a>
-      (
-        {%- for tag in post.tags -%}
-          <a href = "{{ site.baseurl }}/tags/{{ tag | downcase | replace: " ", "-" }}/" class = "tag-link">{{ tag | downcase }}</a>{%- unless forloop.last -%}, {% endunless %}
-        {%- endfor -%}
-      )
+      ({% include tag-links.html tags = post.tags %})
     </div>
   {% endfor %}
 </div>
