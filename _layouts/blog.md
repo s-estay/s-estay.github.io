@@ -10,7 +10,7 @@ layout: base
       <time>{{ post.date | date: "%Y-%m-%d" }}</time>
       •
       <a href = "{{ post.url }}">{{ post.short_title | default: post.title }}</a>
-      ({% include tag-links.html tags = post.tags %})
+      ({% include tag-links.html tags = post.tags lowercase = true %})
     </div>
   {% endfor %}
   {% if pinned_posts.size > 0 and regular_posts.size > 0 %}
@@ -21,7 +21,7 @@ layout: base
       <time>{{ post.date | date: "%Y-%m-%d" }}</time>
       •
       <a href = "{{ post.url }}">{{ post.short_title | default: post.title }}</a>
-      ({% include tag-links.html tags = post.tags %})
+      ({% include tag-links.html tags = post.tags lowercase = true %})
     </div>
   {% endfor %}
 </div>
