@@ -3,6 +3,13 @@ layout: base
 ---
 <div class = "blog-entry-container">
   <h1>{{ page.title }}</h1>
+  {% if page.tags %}
+    <div>
+      {%- for tag in page.tags -%}
+        <a href = "{{ site.baseurl }}/tags/{{ tag | downcase | replace: " ", "-" }}/" class = "tag-link">{{ tag | downcase }}</a>{%- unless forloop.last -%}, {% endunless %}
+      {%- endfor -%}
+    </div>
+  {% endif %}
   {{ content }}
   {% include footer.html %}
 </div>
