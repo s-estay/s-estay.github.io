@@ -15,8 +15,8 @@ tags: [fountain pens]
 | 2026.05.17 | Sailor Pro Gear Limited Edition 2025 Ceremonial Matcha<br>21k `<MF>` gold | ⭐️⭐️⭐️ |
 | 2026.05.16 | Sailor Pro Gear Black RT<br>21k two-tone `<F>` gold | ⭐️⭐️⭐️ |
 | 2026.05.14 | Leonardo Momento Zero Grande 2.0 Dark RT<br>#6 `<F>` steel | ⭐️⭐️ |
-| 2026.03.19 | Pilot Capless Limited Edition 2022 Red Coral<br>18k `<M>` gold | ⭐️⭐️ |
-| 2026.03.06 | Lamy 2000 Limited Edition 2021 Brown<br>14k `<OM>` gold | ⭐️⭐️ |
+| 2026.03.19 | Pilot Capless Limited Edition 2022 Red Coral<br>18k `<M>` gold | ⭐️⭐️⭐️ |
+| 2026.03.06 | Lamy 2000 Limited Edition 2021 Brown<br>14k `<OM>` gold | ⭐️⭐️⭐️ |
 | 2026.02.12 | Platinum #3776 Century Chartres Blue RT<br>14k `<C>` gold | ⭐️ |
 | 2026.02.02 | Lamy 2000 Black<br>14k `<EF>` gold | ⭐️⭐️⭐️ |
 | 2026.01.16 | Lamy 2000 Stainless Steel<br>14k `<OBB>` gold | ⭐️ |
@@ -27,7 +27,7 @@ tags: [fountain pens]
 | 2025.10.27 | Kaweco Frosted Sport Natural Coconut<br>Premium 060 `<F>` steel | ⭐️ |
 | 2025.09.10 | Platinum #3776 Century Bourgogne RT<br>14k `<B>` gold | ⭐️ |
 | 2025.08.24 | Platinum #3776 Century Black Diamond<br>14k `<M>` gold | ⭐️⭐️ |
-| 2025.03.16 | Pilot Capless Limited Edition 2024 Seashore<br>18k `<M>` gold | ⭐️⭐️ |
+| 2025.03.16 | Pilot Capless Limited Edition 2024 Seashore<br>18k `<M>` gold | ⭐️⭐️⭐️ |
 
 ## Pens that I've let go (13)
 
