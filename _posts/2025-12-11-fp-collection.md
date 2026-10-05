@@ -8,27 +8,27 @@ tags: [fountain pens]
 
 ## Current line-up (19)
 
-| Date | Brand/Model/Edition<br>Nib | Rating | 
+| Date | Brand/Model/Edition • Nib | Rating | 
 | --- | --- | --- | 
-| 2026.10.05 | Pelikan M1000 Black<br>18k two-tone `<EF>` gold | |
-| 2026.09.26 | Pilot Custom 743<br>14k `<FA>` gold ebonite feed | |
-| 2026.08.28 | Sailor Pro Gear Black GT<br>21k two-tone `<B>` gold | ⭐️⭐️⭐️ |
-| 2026.05.17 | Sailor Pro Gear Limited Edition 2025 Ceremonial Matcha<br>21k `<MF>` gold | ⭐️⭐️ |
-| 2026.05.16 | Sailor Pro Gear Black RT<br>21k two-tone `<F>` gold | ⭐️⭐️⭐️ |
-| 2026.05.14 | Leonardo Momento Zero Grande 2.0 Dark RT<br>#6 `<F>` steel | ⭐️⭐️ |
-| 2026.03.19 | Pilot Capless Limited Edition 2022 Red Coral<br>18k `<M>` gold | ⭐️⭐️⭐️ |
-| 2026.03.06 | Lamy 2000 Limited Edition 2021 Brown<br>14k `<M>` gold | ⭐️⭐️⭐️ |
-| 2026.02.12 | Platinum #3776 Century Chartres Blue RT<br>14k `<C>` gold | ⭐️ |
-| 2026.02.02 | Lamy 2000 Black<br>14k `<EF>` gold | ⭐️⭐️⭐️ |
-| 2026.01.16 | Lamy 2000 Stainless Steel<br>14k `<OBB>` gold | ⭐️ |
-| 2026.01.16 | Kaweco Frosted Sport Sweet Banana<br>Premium 060 `<B>` steel | ⭐️⭐️⭐️ |
-| 2026.01.11 | Lamy 2000 Limited Edition 2024 Pine Green<br>14k `<F>` gold | ⭐️⭐️⭐️ |
-| 2025.12.28 | Leonardo Momento Zero Grande 2.0 Crepuscolo Marino<br>#6 `<M>` steel | ⭐️⭐️ |
-| 2025.12.18 | Lamy 2000 Black<br>14k `<M>` gold | ⭐️⭐️⭐️ |
-| 2025.10.27 | Kaweco Frosted Sport Natural Coconut<br>Premium 060 `<F>` steel | ⭐️ |
-| 2025.09.10 | Platinum #3776 Century Bourgogne RT<br>14k `<B>` gold | ⭐️ |
-| 2025.08.24 | Platinum #3776 Century Black Diamond<br>14k `<M>` gold | ⭐️⭐️ |
-| 2025.03.16 | Pilot Capless Limited Edition 2024 Seashore<br>18k `<M>` gold | ⭐️⭐️⭐️ |
+| 2026.10.05 | Pelikan M1000 Black • 18k two-tone `<EF>` gold | |
+| 2026.09.26 | Pilot Custom 743 • 14k `<FA>` gold ebonite feed | |
+| 2026.08.28 | Sailor Pro Gear Black GT • 21k two-tone `<B>` gold | ⭐️⭐️⭐️ |
+| 2026.05.17 | Sailor Pro Gear Limited Edition 2025 Ceremonial Matcha • 21k `<MF>` gold | ⭐️⭐️ |
+| 2026.05.16 | Sailor Pro Gear Black RT • 21k two-tone `<F>` gold | ⭐️⭐️⭐️ |
+| 2026.05.14 | Leonardo Momento Zero Grande 2.0 Dark RT • #6 `<F>` steel | ⭐️⭐️ |
+| 2026.03.19 | Pilot Capless Limited Edition 2022 Red Coral • 18k `<M>` gold | ⭐️⭐️⭐️ |
+| 2026.03.06 | Lamy 2000 Limited Edition 2021 Brown • 14k `<M>` gold | ⭐️⭐️⭐️ |
+| 2026.02.12 | Platinum #3776 Century Chartres Blue RT • 14k `<C>` gold | ⭐️ |
+| 2026.02.02 | Lamy 2000 Black • 14k `<EF>` gold | ⭐️⭐️⭐️ |
+| 2026.01.16 | Lamy 2000 Stainless Steel • 14k `<OBB>` gold | ⭐️ |
+| 2026.01.16 | Kaweco Frosted Sport Sweet Banana • Premium 060 `<B>` steel | ⭐️⭐️⭐️ |
+| 2026.01.11 | Lamy 2000 Limited Edition 2024 Pine Green • 14k `<F>` gold | ⭐️⭐️⭐️ |
+| 2025.12.28 | Leonardo Momento Zero Grande 2.0 Crepuscolo Marino • #6 `<M>` steel | ⭐️⭐️ |
+| 2025.12.18 | Lamy 2000 Black • 14k `<M>` gold | ⭐️⭐️⭐️ |
+| 2025.10.27 | Kaweco Frosted Sport Natural Coconut • Premium 060 `<F>` steel | ⭐️ |
+| 2025.09.10 | Platinum #3776 Century Bourgogne RT • 14k `<B>` gold | ⭐️ |
+| 2025.08.24 | Platinum #3776 Century Black Diamond • 14k `<M>` gold | ⭐️⭐️ |
+| 2025.03.16 | Pilot Capless Limited Edition 2024 Seashore • 18k `<M>` gold | ⭐️⭐️⭐️ |
 
 ## Pens that I've let go (13)
 
