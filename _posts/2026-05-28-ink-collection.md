@@ -17,11 +17,12 @@ tags: [fountain pens]
 | Syun-Gyo | Brown-burgundy | ⭐️⭐️ |
 | Syo-Ro | Dark teal, medium shading, wet flow | ⭐️⭐️ |
 | Fuyu-Syogun | Cool stormy gray-blue, medium shading, wet flow | ⭐️ |
-| Yu-Yake | Sunset orange, medium shading | ⭐️ |
+| Yu-Yake | Sunset orange, medium shading | ⭐️⭐️ |
 | Chiku-Rin | Fresh yellow-green, medium shading, dry flow | ⭐️ |
 | Yama-Budo | Purple, medium green sheen, medium shading, wet flow | ⭐️⭐️ |
 | Kon-Peki | Cerulean bright blue, low pink sheen, wet flow | ⭐️⭐️ |
 | Rikka | Medium blue, green undertone, medium shading | ⭐️⭐️ |
+| Asa-Gao | Bright medium blue, no sheen | ⭐️⭐️⭐️ |
 
 ## Sailor Shikiori
 
@@ -61,7 +62,7 @@ tags: [fountain pens]
 | Name | Comments | Rating |
 | --- | --- | --- |
 | Writers Blood | Deep bordeaux red, wet flow | ⭐️⭐️ |
-| Ancient Copper | Red brown, medium shading, medium dark brown sheen | ⭐️⭐️ |
+| Ancient Copper | Red brown, medium shading, medium dark brown sheen | ⭐️⭐️⭐️ |
 | Oxblood | – | ⭐️ |
 | Earl Grey | – | ❌ |
 
@@ -93,20 +94,14 @@ tags: [fountain pens]
 | --- | --- | --- |
 | Summer Purple | – | ⭐️⭐️⭐️ |
 | Midnight Blue | – | ⭐️ |
-| Ruby Red | – | ⭐️ |
+| Ruby Red | – | ⭐️⭐️ |
 | Pearl Black | – | ⭐️ |
-
-## Platinum
-
-| Name | Comments | Rating |
-| --- | --- | --- |
-| Carbon Black | Neutral black, wet flow, pigmented | ⭐️⭐️ |
 
 ## Montblanc
 
 | Name | Comments | Rating |
 | --- | --- | --- |
-| Homage to Bram Stoker | Purple, green sheen | |
+| Homage to Bram Stoker | Bright medium purple, green sheen | ⭐️⭐️⭐️ |
 
 ## Pelikan 4001
 
@@ -114,3 +109,9 @@ tags: [fountain pens]
 | --- | --- | --- |
 | Blue-black | Iron gall, dry flow | ⭐️ |
 | Royal Blue | Purple-blue, dry flow | ⭐️ |
+
+## Platinum
+
+| Name | Comments | Rating |
+| --- | --- | --- |
+| Carbon Black | Neutral black, wet flow, pigmented, shiny when dry | ⭐️⭐️ |
