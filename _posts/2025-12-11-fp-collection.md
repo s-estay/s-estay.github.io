@@ -33,7 +33,7 @@ tags: [fountain pens]
 
 | Date | Brand/Model/Edition | Nib | 
 | --- | --- | --- |
-| 2026.01.16 2026.10.11 | Lamy 2000 Stainless Steel | 14k `<F>` gold |
+| 2026.10.11 2026.01.16 | Lamy 2000 Stainless Steel | 14k `<F>` gold |
 | 2026.09.03 2025.11.17 | Pilot Capless Decimo Purple | 18k `<B>` gold |
 | 2026.09.01 2025.04.24 | Pelikan Souverän M800 Black GT | 18k two-tone `<EF>` gold |
 | 2026.08.31 2025.06.09 | Namiki Capless Raden Water Surface | 18k `<F>` gold |
