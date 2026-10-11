@@ -103,13 +103,6 @@ tags: [fountain pens]
 | --- | --- | --- |
 | Homage to Bram Stoker | Bright medium purple, green sheen | ⭐️⭐️⭐️ |
 
-## Pelikan 4001
-
-| Name | Comments | Rating |
-| --- | --- | --- |
-| Blue-black | Iron gall, dry flow | ⭐️ |
-| Royal Blue | Purple-blue, dry flow | ⭐️ |
-
 ## Platinum
 
 | Name | Comments | Rating |
