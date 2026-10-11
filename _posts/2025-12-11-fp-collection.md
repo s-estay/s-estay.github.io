@@ -11,7 +11,7 @@ tags: [fountain pens]
 | Date | Brand/Model/Edition • Nib | Rating | 
 | --- | --- | --- | 
 | 2026.10.05 | Pelikan M1000 Black • 18k two-tone `<EF>` gold | |
-| 2026.09.26 | Pilot Custom 743 • 14k `<FA>` gold ebonite feed | |
+| 2026.09.26 | Pilot Custom 743 • 14k `<FA>` gold ebonite feed | ⭐️⭐️⭐️ |
 | 2026.08.28 | Sailor Pro Gear Black GT • 21k two-tone `<B>` gold | ⭐️⭐️⭐️ |
 | 2026.05.17 | Sailor Pro Gear Limited Edition 2025 Ceremonial Matcha • 21k `<MF>` gold | ⭐️⭐️ |
 | 2026.05.16 | Sailor Pro Gear Black RT • 21k two-tone `<F>` gold | ⭐️⭐️⭐️ |
