@@ -6,7 +6,7 @@ short_title: Fountain pen collection
 tags: [fountain pens]
 ---
 
-## Current line-up (19)
+## Current line-up (18)
 
 | Date | Brand/Model/Edition • Nib | Rating | 
 | --- | --- | --- | 
@@ -20,7 +20,6 @@ tags: [fountain pens]
 | 2026.03.06 | Lamy 2000 Limited Edition 2021 Brown • 14k `<M>` gold | ⭐️⭐️⭐️ |
 | 2026.02.12 | Platinum #3776 Century Chartres Blue RT • 14k `<C>` gold | ⭐️ |
 | 2026.02.02 | Lamy 2000 Black • 14k `<EF>` gold | ⭐️⭐️⭐️ |
-| 2026.01.16 | Lamy 2000 Stainless Steel • 14k `<OBB>` gold | ⭐️ |
 | 2026.01.16 | Kaweco Frosted Sport Sweet Banana • Premium 060 `<B>` steel | ⭐️⭐️⭐️ |
 | 2026.01.11 | Lamy 2000 Limited Edition 2024 Pine Green • 14k `<F>` gold | ⭐️⭐️⭐️ |
 | 2025.12.28 | Leonardo Momento Zero Grande 2.0 Crepuscolo Marino • #6 `<M>` steel | ⭐️⭐️ |
@@ -30,10 +29,11 @@ tags: [fountain pens]
 | 2025.08.24 | Platinum #3776 Century Black Diamond • 14k `<M>` gold | ⭐️⭐️ |
 | 2025.03.16 | Pilot Capless Limited Edition 2024 Seashore • 18k `<M>` gold | ⭐️⭐️⭐️ |
 
-## Pens that I've let go (13)
+## Pens that I've let go (14)
 
 | Date | Brand/Model/Edition | Nib | 
 | --- | --- | --- |
+| 2026.01.16 2026.10.11 | Lamy 2000 Stainless Steel | 14k `<OBB>` gold |
 | 2026.09.03 2025.11.17 | Pilot Capless Decimo Purple | 18k `<B>` gold |
 | 2026.09.01 2025.04.24 | Pelikan Souverän M800 Black GT | 18k two-tone `<EF>` gold |
 | 2026.08.31 2025.06.09 | Namiki Capless Raden Water Surface | 18k `<F>` gold |
