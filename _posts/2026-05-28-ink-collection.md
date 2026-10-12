@@ -103,6 +103,11 @@ tags: [fountain pens]
 | --- | --- | --- |
 | Homage to Bram Stoker | Bright medium purple, green sheen | ⭐️⭐️⭐️ |
 
+## Pelikan Edelstein
+| Name | Comments | Rating |
+| --- | --- | --- |
+| Onyx | Neutral black, low shading, low sheen |  |
+
 ## Platinum
 
 | Name | Comments | Rating |
