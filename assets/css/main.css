@@ -2,7 +2,8 @@
   /* kanagawa color palette */
   --sumi-ink-1: #1F1F28;
   --sumi-ink-3: #363646;
-	--font-color: #f2f2f2;
+  --sumi-ink-4: #2A2A37;
+  --font-color: #f2f2f2;
   --sakura-pink: #D27E99;
   --wave-red: #E46876;
   --peach-red: #FF5D62;
@@ -18,6 +19,8 @@
   --wave-blue-2: #2D4F67;
   --oni-violet: #957FB8;
   --fuji-gray: #727169;
+  --autumn-green: #76946A;
+  --winter-green: #2B3328;
 }
 
 body {
@@ -93,4 +96,71 @@ ul { padding-left: 2em; }
 
 .tag-link:hover {
   color: var(--surimi-orange);
+}
+
+.reading-progress {
+  margin: 1em 0 1.25em;
+}
+
+.reading-progress-label {
+  margin-bottom: 0.35em;
+  color: var(--carp-yellow);
+}
+
+.reading-progress-track {
+  display: flex;
+  gap: 2px;
+  width: 100%;
+  height: 24px;
+  box-sizing: border-box;
+  border: 3px solid #111;
+  padding: 2px;
+  background-color: var(--sumi-ink-1);
+  overflow: hidden;
+}
+
+.reading-progress-segment {
+  position: relative;
+  flex: 1 1 0;
+  min-width: 0;
+  background-color: var(--sumi-ink-4);
+}
+
+.reading-progress-segment.is-filled::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image:
+    linear-gradient(
+      to right,
+      rgba(255, 255, 255, 0.25) 0,
+      rgba(255, 255, 255, 0.25) 1px,
+      transparent 1px
+    ),
+    linear-gradient(
+      to bottom,
+      var(--spring-green) 0,
+      var(--spring-green) 35%,
+      var(--autumn-green) 35%,
+      var(--autumn-green) 88%,
+      var(--winter-green) 88%
+    );
+  animation: reading-progress-pop 60ms steps(1, end) both;
+  animation-delay: calc(var(--seg-index, 0) * 45ms);
+}
+
+@keyframes reading-progress-pop {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .reading-progress-segment.is-filled::after {
+    animation: none;
+  }
 }
