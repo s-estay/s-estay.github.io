@@ -19,6 +19,7 @@
   --wave-blue-2: #2D4F67;
   --oni-violet: #957FB8;
   --fuji-gray: #727169;
+  --old-white: #C8C093;
   --autumn-green: #76946A;
   --winter-green: #2B3328;
 }
@@ -42,7 +43,11 @@ body {
 
 code { color: var(--spring-green); }
 
-em { color: var(--carp-yellow); font-style: normal; }
+em { color: var(--surimi-orange); font-style: normal; }
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--dragon-blue);
+}
 
 a { color: var(--dragon-blue); }
 
@@ -104,7 +109,7 @@ ul { padding-left: 2em; }
 
 .reading-progress-label {
   margin-bottom: 0.35em;
-  color: var(--carp-yellow);
+  color: var(--surimi-orange);
 }
 
 .reading-progress-track {
@@ -163,4 +168,12 @@ ul { padding-left: 2em; }
   .reading-progress-segment.is-filled::after {
     animation: none;
   }
+}
+
+.blog-list-entry {
+  color: var(--old-white);
+}
+
+.blog-entry-container {
+  color: var(--old-white);
 }
