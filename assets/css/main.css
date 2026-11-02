@@ -96,11 +96,14 @@ ul { padding-left: 2em; }
 }
 
 .tag-link {
-  color: var(--dragon-blue);
+  color: var(--sakura-pink);
+  cursor: pointer;
+  text-decoration: none;
+  font-family: monospace;
 }
 
 .tag-link:hover {
-  color: var(--surimi-orange);
+  color: var(--wave-red);
 }
 
 .reading-progress {

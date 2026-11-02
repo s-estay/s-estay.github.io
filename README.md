@@ -19,6 +19,12 @@ bundle exec jekyll new . --blank --force
 rm -rf _sass
 mv assets/css/main.scss assets/css/main.css
 mv _layout/default.html _layout/base.html
+```
+
+## Build and serve
+
+```
+bundle exec jekyll build
 bundle exec jekyll serve
 bundle exec jekyll serve --drafts
 ```
