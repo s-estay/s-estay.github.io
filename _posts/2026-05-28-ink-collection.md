@@ -10,19 +10,17 @@ tags: [fountain pens]
 | Name | Comments | Rating |
 | --- | --- | --- |
 | Take-Sumi | Charcoal black, medium black sheen, wet flow | ⭐️⭐️⭐️ |
-| Shin-Kai | Stormy medium blue-black, medium shading, wet flow | ⭐️⭐️⭐️ |
+| Shin-Kai | Stormy medium blue-black, medium shading, wet flow | ⭐️⭐️ |
 | Tsuki-Yo | Dark blue, green undertone, red sheen, medium shading, wet flow | ⭐️⭐️⭐️ |
 | Momiji | Bright red-orange, low gold sheen | ⭐️⭐️⭐️ |
 | Yama-Guri | Medium brown, purple undertone, medium shading, wet flow | ⭐️⭐️ |
-| Syun-Gyo | Brown-burgundy | ⭐️⭐️ |
-| Syo-Ro | Dark teal, medium shading, wet flow | ⭐️⭐️ |
-| Fuyu-Syogun | Cool stormy gray-blue, medium shading, wet flow | ⭐️ |
-| Yu-Yake | Sunset orange, medium shading | ⭐️⭐️ |
-| Chiku-Rin | Fresh yellow-green, medium shading, dry flow | ⭐️ |
+| Syun-Gyo | Brown-burgundy | ⭐️⭐⭐️ |
+| Fuyu-Syogun | Cool stormy gray-blue, medium shading, wet flow | ❌️ |
+| Chiku-Rin | Fresh yellow-green, medium shading, dry flow | ❌️ |
 | Yama-Budo | Purple, medium green sheen, medium shading, wet flow | ⭐️⭐️ |
 | Kon-Peki | Cerulean bright blue, low pink sheen, wet flow | ⭐️⭐️ |
 | Rikka | Medium blue, green undertone, medium shading | ⭐️⭐️ |
-| Asa-Gao | Bright medium blue, no sheen | ⭐️⭐️⭐️ |
+| Asa-Gao | Bright medium blue, no sheen | ⭐️⭐️ |
 
 ## Sailor Shikiori <span data-table-row-count></span>
 
@@ -73,8 +71,8 @@ tags: [fountain pens]
 
 | Name | Comments | Rating |
 | --- | --- | --- |
-| Toppuri | Deep blue-black, medium shading, slow to dry, pigmented | ⭐️ |
-| Mukuri | Brown, pigmented | ⭐️ |
+| Toppuri | Deep blue-black, medium shading, slow to dry, pigmented | ⭐⭐️ |
+| Mukuri | Brown, pigmented | ⭐⭐️ |
 
 ## Leonardo <span data-table-row-count></span>
 
