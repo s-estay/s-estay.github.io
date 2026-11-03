@@ -30,6 +30,7 @@ tags: [fountain pens]
 | --- | --- | --- |
 | Doyou | Dark brown, black sheen, wet flow | ⭐️ |
 | Yamadori | Teal, high burgundy sheen | ⭐️⭐️ |
+| Yonaga | Navy blue | ⭐️⭐️ |
 | Shimoyo | Dark dusty blue-black, medium shading | ⭐️⭐️ |
 | Chushu | Dark dusty purple, low shading, wet flow | |
 | Yodaki | Medium red, high gold sheen | ⭐️⭐️⭐️ |
@@ -51,18 +52,20 @@ tags: [fountain pens]
 | Seiboku | Medium blue, medium shading, wet flow, pigmented | ⭐️⭐️ |
 | Souboku | Unsaturated blue-black, medium shading, wet flow, pigmented | ⭐️⭐️ |
 
-## Taccia
+## Taccia Ukiyo-e
 
 | Name | Comments | Rating |
 | --- | --- | --- |
 | Hokusai Sabimidori | Rust green, medium shading, high copper sheen | ⭐️⭐️⭐️ |
+| Kuniyoshi Uguisu-Cha | Olive brown | |
+| Kuniyoshi Akane | Crimson | |
 
 ## Diamine 
 
 | Name | Comments | Rating |
 | --- | --- | --- |
 | Writers Blood | Deep bordeaux red, wet flow | ⭐️⭐️ |
-| Ancient Copper | Red brown, medium shading, medium dark brown sheen | ⭐️⭐️⭐️ |
+| Ancient Copper | Red brown, medium shading, medium dark brown sheen | ⭐️⭐️ |
 | Oxblood | – | ⭐️ |
 | Earl Grey | – | ❌ |
 
@@ -92,7 +95,7 @@ tags: [fountain pens]
 
 | Name | Comments | Rating |
 | --- | --- | --- |
-| Summer Purple | – | ⭐️⭐️⭐️ |
+| Summer Purple | – | ⭐️⭐️ |
 | Midnight Blue | – | ⭐️ |
 | Ruby Red | – | ⭐️⭐️ |
 | Pearl Black | – | ⭐️ |
@@ -106,7 +109,7 @@ tags: [fountain pens]
 ## Pelikan Edelstein
 | Name | Comments | Rating |
 | --- | --- | --- |
-| Onyx | Neutral black, low shading, low sheen |  |
+| Onyx | Neutral black, low shading, low sheen | ⭐️⭐️ |
 
 ## Platinum
 
