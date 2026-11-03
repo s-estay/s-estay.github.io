@@ -5,7 +5,7 @@ title: Ink collection
 tags: [fountain pens]
 ---
 
-## Pilot Iroshizuku
+## Pilot Iroshizuku <span data-table-row-count></span>
 
 | Name | Comments | Rating |
 | --- | --- | --- |
@@ -24,7 +24,7 @@ tags: [fountain pens]
 | Rikka | Medium blue, green undertone, medium shading | ⭐️⭐️ |
 | Asa-Gao | Bright medium blue, no sheen | ⭐️⭐️⭐️ |
 
-## Sailor Shikiori
+## Sailor Shikiori <span data-table-row-count></span>
 
 | Name | Comments | Rating |
 | --- | --- | --- |
@@ -39,20 +39,20 @@ tags: [fountain pens]
 | Tokiwa-Matsu | Medium olive green, medium red sheen, wet flow | ⭐️⭐️⭐️ |
 | Waka-Uguiso | Medium spring green, medium shading | ⭐️⭐️⭐️ |
 
-## Sailor x Ancora
+## Sailor x Ancora <span data-table-row-count></span>
 
 | Name | Comments | Rating |
 | --- | --- | --- |
 | Rainy Day | Light blue, high shading, dry flow | ⭐️ |
 
-## Sailor Nano
+## Sailor Nano <span data-table-row-count></span>
 
 | Name | Comments | Rating |
 | --- | --- | --- |
 | Seiboku | Medium blue, medium shading, wet flow, pigmented | ⭐️⭐️ |
 | Souboku | Unsaturated blue-black, medium shading, wet flow, pigmented | ⭐️⭐️ |
 
-## Taccia Ukiyo-e
+## Taccia Ukiyo-e <span data-table-row-count></span>
 
 | Name | Comments | Rating |
 | --- | --- | --- |
@@ -60,7 +60,7 @@ tags: [fountain pens]
 | Kuniyoshi Uguisu-Cha | Olive brown | |
 | Kuniyoshi Akane | Crimson | |
 
-## Diamine 
+## Diamine <span data-table-row-count></span>
 
 | Name | Comments | Rating |
 | --- | --- | --- |
@@ -69,21 +69,21 @@ tags: [fountain pens]
 | Oxblood | – | ⭐️ |
 | Earl Grey | – | ❌ |
 
-## Kakimori
+## Kakimori <span data-table-row-count></span>
 
 | Name | Comments | Rating |
 | --- | --- | --- |
 | Toppuri | Deep blue-black, medium shading, slow to dry, pigmented | ⭐️ |
 | Mukuri | Brown, pigmented | ⭐️ |
 
-## Leonardo
+## Leonardo <span data-table-row-count></span>
 
 | Name | Comments | Rating |
 | --- | --- | --- |
 | Boreale | Shimmer | ⭐️ |
 | Purple Diamond | Shimmer | ⭐️⭐️ |
 
-## J. Herbin
+## J. Herbin <span data-table-row-count></span>
 
 | Name | Comments | Rating |
 | --- | --- | --- |
@@ -91,7 +91,7 @@ tags: [fountain pens]
 | Ambre de Birmanie | Golden amber | ⭐️⭐️ |
 | Poussière de Lune | Dusty purple | ⭐️ |
 
-## Kaweco
+## Kaweco <span data-table-row-count></span>
 
 | Name | Comments | Rating |
 | --- | --- | --- |
@@ -100,18 +100,19 @@ tags: [fountain pens]
 | Ruby Red | – | ⭐️⭐️ |
 | Pearl Black | – | ⭐️ |
 
-## Montblanc
+## Montblanc <span data-table-row-count></span>
 
 | Name | Comments | Rating |
 | --- | --- | --- |
 | Homage to Bram Stoker | Bright medium purple, green sheen | ⭐️⭐️⭐️ |
 
-## Pelikan Edelstein
+## Pelikan Edelstein <span data-table-row-count></span>
+
 | Name | Comments | Rating |
 | --- | --- | --- |
 | Onyx | Neutral black, low shading, low sheen | ⭐️⭐️ |
 
-## Platinum
+## Platinum <span data-table-row-count></span>
 
 | Name | Comments | Rating |
 | --- | --- | --- |

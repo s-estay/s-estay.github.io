@@ -6,7 +6,7 @@ short_title: Fountain pen collection
 tags: [fountain pens]
 ---
 
-## Current line-up (19)
+## Current line-up <span data-table-row-count></span>
 
 | Date | Brand/Model/Edition • Nib | Rating | 
 | --- | --- | --- | 
@@ -30,7 +30,7 @@ tags: [fountain pens]
 | 2025.08.24 | Platinum #3776 Century Black Diamond • 14k `<M>` gold | ⭐️⭐️ |
 | 2025.03.16 | Pilot Capless Limited Edition 2024 Seashore • 18k `<M>` gold | ⭐️⭐️⭐️ |
 
-## Pens that I've let go (14)
+## Pens that I've let go <span data-table-row-count></span>
 
 | Date | Brand/Model/Edition | Nib | 
 | --- | --- | --- |
