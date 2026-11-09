@@ -115,3 +115,22 @@ tags: [fountain pens]
 | Name | Comments | Rating |
 | --- | --- | --- |
 | Carbon Black | Neutral black, wet flow, pigmented, shiny when dry | ⭐️⭐️ |
+
+## Will not buy again
+
+| Brand + series | Name |
+| --- | --- |
+| Pilot Iroshizuku | Syo-Ro |
+| Pilot Iroshizuku | Yu-Yake |
+| Pelikan 4001 | Royal Blue |
+| Pelikan 4001 | Blue-black |
+| Pilot Iroshizuku | Shin-Ryoku |
+| Sailor Yurameki | Kyokkou |
+| Sailor Yurameki | Seki |
+| Leonardo | Nero Intenso |
+| Pilot Iroshizuku | Murasakai-Shikibu |
+| J. Herbin | Cacao du Brésil |
+| J. Herbin | Lie de Thé |
+| Diamine | Burnt Sienna |
+| Diamine | Lady Gray |
+| Sailor Shikiori | Miruai | 
