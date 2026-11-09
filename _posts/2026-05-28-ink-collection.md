@@ -13,11 +13,11 @@ tags: [fountain pens]
 | Shin-Kai | Stormy medium blue-black, medium shading, wet flow | ⭐️⭐️ |
 | Tsuki-Yo | Dark blue, green undertone, red sheen, medium shading, wet flow | ⭐️⭐️⭐️ |
 | Momiji | Bright red-orange, low gold sheen | ⭐️⭐️⭐️ |
-| Yama-Guri | Medium brown, purple undertone, medium shading, wet flow | ⭐️⭐️ |
+| Yama-Guri | Medium brown, purple undertone, medium shading, wet flow | ❌️ |
 | Syun-Gyo | Brown-burgundy | ⭐️⭐⭐️ |
 | Fuyu-Syogun | Cool stormy gray-blue, medium shading, wet flow | ❌️ |
 | Chiku-Rin | Fresh yellow-green, medium shading, dry flow | ❌️ |
-| Yama-Budo | Purple, medium green sheen, medium shading, wet flow | ⭐️⭐️ |
+| Yama-Budo | Purple, medium green sheen, medium shading, wet flow | ❌️ |
 | Kon-Peki | Cerulean bright blue, low pink sheen, wet flow | ⭐️⭐️ |
 | Rikka | Medium blue, green undertone, medium shading | ⭐️⭐️ |
 | Asa-Gao | Bright medium blue, no sheen | ⭐️⭐️ |
@@ -26,16 +26,16 @@ tags: [fountain pens]
 
 | Name | Comments | Rating |
 | --- | --- | --- |
-| Doyou | Dark brown, black sheen, wet flow | ⭐️ |
+| Doyou | Dark brown, black sheen, wet flow | ⭐️⭐️ |
 | Yamadori | Teal, high burgundy sheen | ⭐️⭐️ |
-| Yonaga | Navy blue | ⭐️⭐️ |
+| Yonaga | Dark midnight blue, wet flow | ⭐️⭐️⭐️ |
 | Shimoyo | Dark dusty blue-black, medium shading | ⭐️⭐️ |
 | Chushu | Dark dusty purple, low shading, wet flow | |
 | Yodaki | Medium red, high gold sheen | ⭐️⭐️⭐️ |
 | Okuyama | Dark magenta, bright green sheen | ⭐️⭐️⭐️ |
 | Rikyucha | Dark olive green, brown undertone, medium shading, wet flow | ⭐️⭐️⭐️ |
 | Tokiwa-Matsu | Medium olive green, medium red sheen, wet flow | ⭐️⭐️⭐️ |
-| Waka-Uguiso | Medium spring green, medium shading | ⭐️⭐️⭐️ |
+| Waka-Uguiso | Medium spring green, medium shading | ⭐️⭐️ |
 
 ## Sailor x Ancora <span data-table-row-count></span>
 
@@ -63,9 +63,9 @@ tags: [fountain pens]
 | Name | Comments | Rating |
 | --- | --- | --- |
 | Writers Blood | Deep bordeaux red, wet flow | ⭐️⭐️ |
-| Ancient Copper | Red brown, medium shading, medium dark brown sheen | ⭐️⭐️ |
-| Oxblood | – | ⭐️ |
-| Earl Grey | – | ❌ |
+| Oxblood | Dark red with, low green sheen. | ⭐️⭐️ |
+| Ancient Copper | Red brown, medium shading, medium dark brown sheen | ❌️ |
+| Earl Grey | Medium grey, purple undertone | ❌ |
 
 ## Kakimori <span data-table-row-count></span>
 
@@ -85,9 +85,9 @@ tags: [fountain pens]
 
 | Name | Comments | Rating |
 | --- | --- | --- |
-| Perle Noire | Black | ⭐️ |
+| Perle Noire | Black | ❌️ |
 | Ambre de Birmanie | Golden amber | ⭐️⭐️ |
-| Poussière de Lune | Dusty purple | ⭐️ |
+| Poussière de Lune | Dusty purple | ❌️ |
 
 ## Kaweco <span data-table-row-count></span>
 
