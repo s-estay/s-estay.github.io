@@ -55,6 +55,7 @@ tags: [fountain pens]
 | Name | Comments | Rating |
 | --- | --- | --- |
 | Hokusai Sabimidori | Rust green, medium shading, high copper sheen | ⭐️⭐️⭐️ |
+| Kuniyoshi Kuro-Murasaki | Dark purple, green sheen | |
 | Kuniyoshi Uguisu-Cha | Olive brown | |
 | Kuniyoshi Akane | Crimson | |
 
