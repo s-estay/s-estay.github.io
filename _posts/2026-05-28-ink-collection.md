@@ -55,9 +55,9 @@ tags: [fountain pens]
 | Name | Comments | Rating |
 | --- | --- | --- |
 | Hokusai Sabimidori | Rust green, medium shading, high copper sheen | ⭐️⭐️⭐️ |
-| Kuniyoshi Kuro-Murasaki | Dark purple, green sheen | |
-| Kuniyoshi Uguisu-Cha | Olive brown | |
-| Kuniyoshi Akane | Crimson | |
+| Kuniyoshi Kuro-Murasaki | Dark purple, green sheen | ⭐️⭐️ |
+| Kuniyoshi Uguisu-Cha | Olive brown | ⭐️⭐️ |
+| Kuniyoshi Akane | Crimson | ⭐️⭐️⭐️ |
 
 ## Diamine <span data-table-row-count></span>
 
@@ -72,8 +72,8 @@ tags: [fountain pens]
 
 | Name | Comments | Rating |
 | --- | --- | --- |
-| Toppuri | Deep blue-black, medium shading, slow to dry, pigmented | ⭐⭐️ |
-| Mukuri | Brown, pigmented | ⭐⭐️ |
+| Toppuri | Deep blue-black, medium shading, slow to dry, pigmented | ❌ |
+| Mukuri | Brown, pigmented | ❌ |
 
 ## Leonardo <span data-table-row-count></span>
 
@@ -86,7 +86,6 @@ tags: [fountain pens]
 
 | Name | Comments | Rating |
 | --- | --- | --- |
-| Perle Noire | Black | ❌️ |
 | Ambre de Birmanie | Golden amber | ⭐️⭐️ |
 | Poussière de Lune | Dusty purple | ❌️ |
 
@@ -95,9 +94,9 @@ tags: [fountain pens]
 | Name | Comments | Rating |
 | --- | --- | --- |
 | Summer Purple | – | ⭐️⭐️ |
-| Midnight Blue | – | ⭐️ |
+| Midnight Blue | – | ❌️ |
 | Ruby Red | – | ⭐️⭐️ |
-| Pearl Black | – | ⭐️ |
+| Pearl Black | – | ❌️ |
 
 ## Montblanc <span data-table-row-count></span>
 
@@ -132,6 +131,7 @@ tags: [fountain pens]
 | Pilot Iroshizuku | Murasakai-Shikibu |
 | J. Herbin | Cacao du Brésil |
 | J. Herbin | Lie de Thé |
+| J. Herbin | Perle Noire |
 | Diamine | Burnt Sienna |
 | Diamine | Lady Gray |
 | Sailor Shikiori | Miruai | 
