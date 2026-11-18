@@ -30,12 +30,12 @@ tags: [fountain pens]
 | Yamadori | Teal, high burgundy sheen | ⭐️⭐️ |
 | Yonaga | Dark midnight blue, wet flow | ⭐️⭐️⭐️ |
 | Shimoyo | Dark dusty blue-black, medium shading | ⭐️⭐️ |
-| Chushu | Dark dusty purple, low shading, wet flow | |
+| Chushu | Dark dusty purple, low shading, wet flow | ⭐️⭐️ |
 | Yodaki | Medium red, high gold sheen | ⭐️⭐️⭐️ |
 | Okuyama | Dark magenta, bright green sheen | ⭐️⭐️⭐️ |
 | Rikyucha | Dark olive green, brown undertone, medium shading, wet flow | ⭐️⭐️⭐️ |
-| Tokiwa-Matsu | Medium olive green, medium red sheen, wet flow | ⭐️⭐️⭐️ |
-| Waka-Uguiso | Medium spring green, medium shading | ⭐️⭐️ |
+| Tokiwa-Matsu | Medium olive green, medium red sheen, wet flow | ⭐️⭐️ |
+| Waka-Uguiso | Medium spring green, medium shading | ❌ |
 
 ## Sailor x Ancora <span data-table-row-count></span>
 
